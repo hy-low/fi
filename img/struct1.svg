@@ -1,0 +1,71 @@
+<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .addr {
+      font: 14px monospace;
+      fill: #555;
+    }
+
+    .varname {
+      font: 16px monospace;
+      text-anchor:middle;
+    }
+
+    .empty {
+      fill: #dddddd;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .varx {
+      fill: #9999ee;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .vary {
+      fill: #99ee99;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .brace {
+      stroke: #333;
+      stroke-width: 2;
+      fill: none;
+    }
+  </style>
+
+  <rect x="50" y="30" width="50" height="50" class="empty"/>
+  <rect x="100" y="30" width="50" height="50" class="empty"/>
+  <rect x="150" y="30" width="50" height="50" class="varx"/>
+  <rect x="200" y="30" width="50" height="50" class="varx"/>
+  <rect x="250" y="30" width="50" height="50" class="varx"/>
+  <rect x="300" y="30" width="50" height="50" class="varx"/>
+  <rect x="350" y="30" width="50" height="50" class="vary"/>
+  <rect x="400" y="30" width="50" height="50" class="vary"/>
+  <rect x="450" y="30" width="50" height="50" class="vary"/>
+  <rect x="500" y="30" width="50" height="50" class="vary"/>
+  <rect x="550" y="30" width="50" height="50" class="empty"/>
+  <rect x="600" y="30" width="50" height="50" class="empty"/>
+  <rect x="650" y="30" width="50" height="50" class="empty"/>
+  <rect x="700" y="30" width="50" height="50" class="empty"/>
+
+  <path d="
+    M 155 90
+    L 155 100
+    L 345 100
+    L 345 90
+  " class="brace"/>
+
+  <text x="250" y="120" class="varname">x</text>
+
+  <path d="
+    M 355 90
+    L 355 100
+    L 545 100
+    L 545 90
+  " class="brace"/>
+
+  <text x="450" y="120" class="varname">y</text>
+
+</svg>

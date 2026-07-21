@@ -1,0 +1,60 @@
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .addr {
+      font: 14px monospace;
+      fill: #555;
+    }
+
+    .varname {
+      font: 16px monospace;
+      text-anchor:middle;
+    }
+
+    .empty {
+      fill: #dddddd;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .varx {
+      fill: #9999ee;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .brace {
+      stroke: #333;
+      stroke-width: 2;
+      fill: none;
+    }
+  </style>
+
+  <rect x="50" y="50" width="50" height="50" class="empty"/>
+  <rect x="100" y="50" width="50" height="50" class="empty"/>
+  <rect x="150" y="50" width="50" height="50" class="varx"/>
+  <rect x="200" y="50" width="50" height="50" class="varx"/>
+  <rect x="250" y="50" width="50" height="50" class="varx"/>
+  <rect x="300" y="50" width="50" height="50" class="varx"/>
+  <rect x="350" y="50" width="50" height="50" class="empty"/>
+  <rect x="400" y="50" width="50" height="50" class="empty"/>
+  <rect x="450" y="50" width="50" height="50" class="empty"/>
+  <rect x="500" y="50" width="50" height="50" class="empty"/>
+
+  <path d="
+    M 155 110
+    L 155 120
+    L 345 120
+    L 345 110
+  " class="brace"/>
+
+  <text x="250" y="140" class="varname">x</text>
+
+  <path d="
+    M 195 15
+    L 175 15
+    L 175 40
+  " class="brace"/>
+
+  <text x="200" y="20" class="addr">0x7ffe9c985da0</text>
+
+</svg>
