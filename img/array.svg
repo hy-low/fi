@@ -1,0 +1,88 @@
+<svg width="1100" height="150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .addr {
+      font: 14px monospace;
+      fill: #555;
+    }
+
+    .varname {
+      font: 16px monospace;
+      text-anchor:middle;
+    }
+
+    .empty {
+      fill: #dddddd;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .var0, .var1, .var2, .var3 {
+      fill: #9999ee;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .brace {
+      stroke: #333;
+      stroke-width: 2;
+      fill: none;
+    }
+  </style>
+
+  <rect x="50" y="50" width="50" height="50" class="empty"/>
+  <rect x="100" y="50" width="50" height="50" class="empty"/>
+  <rect x="150" y="50" width="50" height="50" class="var0"/>
+  <rect x="200" y="50" width="50" height="50" class="var0"/>
+  <rect x="250" y="50" width="50" height="50" class="var0"/>
+  <rect x="300" y="50" width="50" height="50" class="var0"/>
+  <rect x="350" y="50" width="50" height="50" class="var1"/>
+  <rect x="400" y="50" width="50" height="50" class="var1"/>
+  <rect x="450" y="50" width="50" height="50" class="var1"/>
+  <rect x="500" y="50" width="50" height="50" class="var1"/>
+  <rect x="550" y="50" width="50" height="50" class="var2"/>
+  <rect x="600" y="50" width="50" height="50" class="var2"/>
+  <rect x="650" y="50" width="50" height="50" class="var2"/>
+  <rect x="700" y="50" width="50" height="50" class="var2"/>
+  <rect x="750" y="50" width="50" height="50" class="var3"/>
+  <rect x="800" y="50" width="50" height="50" class="var3"/>
+  <rect x="850" y="50" width="50" height="50" class="var3"/>
+  <rect x="900" y="50" width="50" height="50" class="var3"/>
+  <rect x="950" y="50" width="50" height="50" class="empty"/>
+  <rect x="1000" y="50" width="50" height="50" class="empty"/>
+
+  <path d="
+    M 155 110
+    L 155 120
+    L 345 120
+    L 345 110
+  " class="brace"/>
+
+  <text x="250" y="140" class="varname">numbers[0]</text>
+
+  <path d="
+    M 355 110
+    L 355 120
+    L 545 120
+    L 545 110
+  " class="brace"/>
+
+  <text x="450" y="140" class="varname">numbers[1]</text>
+
+  <path d="
+    M 555 110
+    L 555 120
+    L 745 120
+    L 745 110
+  " class="brace"/>
+
+  <text x="650" y="140" class="varname">numbers[2]</text>
+
+  <path d="
+    M 755 110
+    L 755 120
+    L 945 120
+    L 945 110
+  " class="brace"/>
+
+  <text x="850" y="140" class="varname">numbers[3]</text>
+</svg>
