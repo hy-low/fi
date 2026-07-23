@@ -1,0 +1,274 @@
+<svg width="1100" height="1000" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .addr {
+      font: 14px monospace;
+      fill: #555;
+    }
+
+    .varname {
+      font: 16px monospace;
+      text-anchor:middle;
+    }
+
+    .phase {
+      font: 20px monospace;
+      text-anchor:middle;
+    }
+
+    .empty {
+      fill: #dddddd;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .var {
+      fill: #9999ee;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .brace {
+      stroke: #333;
+      stroke-width: 2;
+      fill: none;
+    }
+  </style>
+
+  <!-- Phase 1 -->
+  <text x="20" y="82" class="phase">1.</text>
+
+  <rect x="50" y="50" width="50" height="50" class="empty"/>
+  <rect x="100" y="50" width="50" height="50" class="empty"/>
+  <rect x="150" y="50" width="50" height="50" class="empty"/>
+  <rect x="200" y="50" width="50" height="50" class="empty"/>
+  <rect x="250" y="50" width="50" height="50" class="empty"/>
+  <rect x="300" y="50" width="50" height="50" class="empty"/>
+  <rect x="350" y="50" width="50" height="50" class="empty"/>
+  <rect x="400" y="50" width="50" height="50" class="empty"/>
+  <rect x="450" y="50" width="50" height="50" class="empty"/>
+  <rect x="500" y="50" width="50" height="50" class="empty"/>
+  <rect x="550" y="50" width="50" height="50" class="empty"/>
+  <rect x="600" y="50" width="50" height="50" class="empty"/>
+  <rect x="650" y="50" width="50" height="50" class="empty"/>
+  <rect x="700" y="50" width="50" height="50" class="empty"/>
+  <rect x="750" y="50" width="50" height="50" class="var"/>
+  <rect x="800" y="50" width="50" height="50" class="var"/>
+  <rect x="850" y="50" width="50" height="50" class="var"/>
+  <rect x="900" y="50" width="50" height="50" class="var"/>
+  <rect x="950" y="50" width="50" height="50" class="empty"/>
+  <rect x="1000" y="50" width="50" height="50" class="empty"/>
+
+  <path d="M 755 110 L 755 120 L 945 120 L 945 110" class="brace"/>
+  <text x="850" y="140" class="varname">a</text>
+
+  <!-- Phase 2 -->
+  <text x="20" y="202" class="phase">2.</text>
+
+  <rect x="50" y="170" width="50" height="50" class="empty"/>
+  <rect x="100" y="170" width="50" height="50" class="empty"/>
+  <rect x="150" y="170" width="50" height="50" class="empty"/>
+  <rect x="200" y="170" width="50" height="50" class="empty"/>
+  <rect x="250" y="170" width="50" height="50" class="empty"/>
+  <rect x="300" y="170" width="50" height="50" class="empty"/>
+  <rect x="350" y="170" width="50" height="50" class="empty"/>
+  <rect x="400" y="170" width="50" height="50" class="empty"/>
+  <rect x="450" y="170" width="50" height="50" class="empty"/>
+  <rect x="500" y="170" width="50" height="50" class="empty"/>
+  <rect x="550" y="170" width="50" height="50" class="var"/>
+  <rect x="600" y="170" width="50" height="50" class="var"/>
+  <rect x="650" y="170" width="50" height="50" class="var"/>
+  <rect x="700" y="170" width="50" height="50" class="var"/>
+  <rect x="750" y="170" width="50" height="50" class="var"/>
+  <rect x="800" y="170" width="50" height="50" class="var"/>
+  <rect x="850" y="170" width="50" height="50" class="var"/>
+  <rect x="900" y="170" width="50" height="50" class="var"/>
+  <rect x="950" y="170" width="50" height="50" class="empty"/>
+  <rect x="1000" y="170" width="50" height="50" class="empty"/>
+
+  <path d="M 555 230 L 555 240 L 745 240 L 745 230" class="brace"/>
+  <text x="650" y="260" class="varname">b</text>
+
+  <path d="M 755 230 L 755 240 L 945 240 L 945 230" class="brace"/>
+  <text x="850" y="260" class="varname">a</text>
+
+  <!-- Phase 3 -->
+  <text x="20" y="322" class="phase">3.</text>
+
+  <rect x="50" y="290" width="50" height="50" class="empty"/>
+  <rect x="100" y="290" width="50" height="50" class="empty"/>
+  <rect x="150" y="290" width="50" height="50" class="empty"/>
+  <rect x="200" y="290" width="50" height="50" class="empty"/>
+  <rect x="250" y="290" width="50" height="50" class="empty"/>
+  <rect x="300" y="290" width="50" height="50" class="empty"/>
+  <rect x="350" y="290" width="50" height="50" class="empty"/>
+  <rect x="400" y="290" width="50" height="50" class="empty"/>
+  <rect x="450" y="290" width="50" height="50" class="empty"/>
+  <rect x="500" y="290" width="50" height="50" class="empty"/>
+  <rect x="550" y="290" width="50" height="50" class="empty"/>
+  <rect x="600" y="290" width="50" height="50" class="empty"/>
+  <rect x="650" y="290" width="50" height="50" class="empty"/>
+  <rect x="700" y="290" width="50" height="50" class="empty"/>
+  <rect x="750" y="290" width="50" height="50" class="var"/>
+  <rect x="800" y="290" width="50" height="50" class="var"/>
+  <rect x="850" y="290" width="50" height="50" class="var"/>
+  <rect x="900" y="290" width="50" height="50" class="var"/>
+  <rect x="950" y="290" width="50" height="50" class="empty"/>
+  <rect x="1000" y="290" width="50" height="50" class="empty"/>
+
+  <path d="M 755 350 L 755 360 L 945 360 L 945 350" class="brace"/>
+  <text x="850" y="380" class="varname">a</text>
+
+  <!-- Phase 4 -->
+  <text x="20" y="442" class="phase">4.</text>
+
+  <rect x="50" y="410" width="50" height="50" class="empty"/>
+  <rect x="100" y="410" width="50" height="50" class="empty"/>
+  <rect x="150" y="410" width="50" height="50" class="empty"/>
+  <rect x="200" y="410" width="50" height="50" class="empty"/>
+  <rect x="250" y="410" width="50" height="50" class="empty"/>
+  <rect x="300" y="410" width="50" height="50" class="empty"/>
+  <rect x="350" y="410" width="50" height="50" class="var"/>
+  <rect x="400" y="410" width="50" height="50" class="var"/>
+  <rect x="450" y="410" width="50" height="50" class="var"/>
+  <rect x="500" y="410" width="50" height="50" class="var"/>
+  <rect x="550" y="410" width="50" height="50" class="var"/>
+  <rect x="600" y="410" width="50" height="50" class="var"/>
+  <rect x="650" y="410" width="50" height="50" class="var"/>
+  <rect x="700" y="410" width="50" height="50" class="var"/>
+  <rect x="750" y="410" width="50" height="50" class="var"/>
+  <rect x="800" y="410" width="50" height="50" class="var"/>
+  <rect x="850" y="410" width="50" height="50" class="var"/>
+  <rect x="900" y="410" width="50" height="50" class="var"/>
+  <rect x="950" y="410" width="50" height="50" class="empty"/>
+  <rect x="1000" y="410" width="50" height="50" class="empty"/>
+
+  <path d="M 355 470 L 355 480 L 545 480 L 545 470" class="brace"/>
+  <text x="450" y="500" class="varname">d</text>
+
+  <path d="M 555 470 L 555 480 L 745 480 L 745 470" class="brace"/>
+  <text x="650" y="500" class="varname">c</text>
+
+  <path d="M 755 470 L 755 480 L 945 480 L 945 470" class="brace"/>
+  <text x="850" y="500" class="varname">a</text>
+
+  <!-- Phase 5 -->
+  <text x="20" y="562" class="phase">5.</text>
+
+  <rect x="50" y="530" width="50" height="50" class="empty"/>
+  <rect x="100" y="530" width="50" height="50" class="empty"/>
+  <rect x="150" y="530" width="50" height="50" class="var"/>
+  <rect x="200" y="530" width="50" height="50" class="var"/>
+  <rect x="250" y="530" width="50" height="50" class="var"/>
+  <rect x="300" y="530" width="50" height="50" class="var"/>
+  <rect x="350" y="530" width="50" height="50" class="var"/>
+  <rect x="400" y="530" width="50" height="50" class="var"/>
+  <rect x="450" y="530" width="50" height="50" class="var"/>
+  <rect x="500" y="530" width="50" height="50" class="var"/>
+  <rect x="550" y="530" width="50" height="50" class="var"/>
+  <rect x="600" y="530" width="50" height="50" class="var"/>
+  <rect x="650" y="530" width="50" height="50" class="var"/>
+  <rect x="700" y="530" width="50" height="50" class="var"/>
+  <rect x="750" y="530" width="50" height="50" class="var"/>
+  <rect x="800" y="530" width="50" height="50" class="var"/>
+  <rect x="850" y="530" width="50" height="50" class="var"/>
+  <rect x="900" y="530" width="50" height="50" class="var"/>
+  <rect x="950" y="530" width="50" height="50" class="empty"/>
+  <rect x="1000" y="530" width="50" height="50" class="empty"/>
+
+  <path d="M 155 590 L 155 600 L 345 600 L 345 590" class="brace"/>
+  <text x="250" y="620" class="varname">b</text>
+
+  <path d="M 355 590 L 355 600 L 545 600 L 545 590" class="brace"/>
+  <text x="450" y="620" class="varname">d</text>
+
+  <path d="M 555 590 L 555 600 L 745 600 L 745 590" class="brace"/>
+  <text x="650" y="620" class="varname">c</text>
+
+  <path d="M 755 590 L 755 600 L 945 600 L 945 590" class="brace"/>
+  <text x="850" y="620" class="varname">a</text>
+
+  <!-- Phase 6 -->
+  <text x="20" y="682" class="phase">6.</text>
+
+  <rect x="50" y="650" width="50" height="50" class="empty"/>
+  <rect x="100" y="650" width="50" height="50" class="empty"/>
+  <rect x="150" y="650" width="50" height="50" class="empty"/>
+  <rect x="200" y="650" width="50" height="50" class="empty"/>
+  <rect x="250" y="650" width="50" height="50" class="empty"/>
+  <rect x="300" y="650" width="50" height="50" class="empty"/>
+  <rect x="350" y="650" width="50" height="50" class="var"/>
+  <rect x="400" y="650" width="50" height="50" class="var"/>
+  <rect x="450" y="650" width="50" height="50" class="var"/>
+  <rect x="500" y="650" width="50" height="50" class="var"/>
+  <rect x="550" y="650" width="50" height="50" class="var"/>
+  <rect x="600" y="650" width="50" height="50" class="var"/>
+  <rect x="650" y="650" width="50" height="50" class="var"/>
+  <rect x="700" y="650" width="50" height="50" class="var"/>
+  <rect x="750" y="650" width="50" height="50" class="var"/>
+  <rect x="800" y="650" width="50" height="50" class="var"/>
+  <rect x="850" y="650" width="50" height="50" class="var"/>
+  <rect x="900" y="650" width="50" height="50" class="var"/>
+  <rect x="950" y="650" width="50" height="50" class="empty"/>
+  <rect x="1000" y="650" width="50" height="50" class="empty"/>
+
+  <path d="M 355 710 L 355 720 L 545 720 L 545 710" class="brace"/>
+  <text x="450" y="740" class="varname">d</text>
+
+  <path d="M 555 710 L 555 720 L 745 720 L 745 710" class="brace"/>
+  <text x="650" y="740" class="varname">c</text>
+
+  <path d="M 755 710 L 755 720 L 945 720 L 945 710" class="brace"/>
+  <text x="850" y="740" class="varname">a</text>
+
+  <!-- Phase 7 -->
+  <text x="20" y="802" class="phase">7.</text>
+
+  <rect x="50" y="770" width="50" height="50" class="empty"/>
+  <rect x="100" y="770" width="50" height="50" class="empty"/>
+  <rect x="150" y="770" width="50" height="50" class="empty"/>
+  <rect x="200" y="770" width="50" height="50" class="empty"/>
+  <rect x="250" y="770" width="50" height="50" class="empty"/>
+  <rect x="300" y="770" width="50" height="50" class="empty"/>
+  <rect x="350" y="770" width="50" height="50" class="empty"/>
+  <rect x="400" y="770" width="50" height="50" class="empty"/>
+  <rect x="450" y="770" width="50" height="50" class="empty"/>
+  <rect x="500" y="770" width="50" height="50" class="empty"/>
+  <rect x="550" y="770" width="50" height="50" class="empty"/>
+  <rect x="600" y="770" width="50" height="50" class="empty"/>
+  <rect x="650" y="770" width="50" height="50" class="empty"/>
+  <rect x="700" y="770" width="50" height="50" class="empty"/>
+  <rect x="750" y="770" width="50" height="50" class="var"/>
+  <rect x="800" y="770" width="50" height="50" class="var"/>
+  <rect x="850" y="770" width="50" height="50" class="var"/>
+  <rect x="900" y="770" width="50" height="50" class="var"/>
+  <rect x="950" y="770" width="50" height="50" class="empty"/>
+  <rect x="1000" y="770" width="50" height="50" class="empty"/>
+
+  <path d="M 755 830 L 755 840 L 945 840 L 945 830" class="brace"/>
+  <text x="850" y="860" class="varname">a</text>
+
+  <!-- Phase 8 -->
+  <text x="20" y="922" class="phase">8.</text>
+
+  <rect x="50" y="890" width="50" height="50" class="empty"/>
+  <rect x="100" y="890" width="50" height="50" class="empty"/>
+  <rect x="150" y="890" width="50" height="50" class="empty"/>
+  <rect x="200" y="890" width="50" height="50" class="empty"/>
+  <rect x="250" y="890" width="50" height="50" class="empty"/>
+  <rect x="300" y="890" width="50" height="50" class="empty"/>
+  <rect x="350" y="890" width="50" height="50" class="empty"/>
+  <rect x="400" y="890" width="50" height="50" class="empty"/>
+  <rect x="450" y="890" width="50" height="50" class="empty"/>
+  <rect x="500" y="890" width="50" height="50" class="empty"/>
+  <rect x="550" y="890" width="50" height="50" class="empty"/>
+  <rect x="600" y="890" width="50" height="50" class="empty"/>
+  <rect x="650" y="890" width="50" height="50" class="empty"/>
+  <rect x="700" y="890" width="50" height="50" class="empty"/>
+  <rect x="750" y="890" width="50" height="50" class="empty"/>
+  <rect x="800" y="890" width="50" height="50" class="empty"/>
+  <rect x="850" y="890" width="50" height="50" class="empty"/>
+  <rect x="900" y="890" width="50" height="50" class="empty"/>
+  <rect x="950" y="890" width="50" height="50" class="empty"/>
+  <rect x="1000" y="890" width="50" height="50" class="empty"/>
+
+</svg>
