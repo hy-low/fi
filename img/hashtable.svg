@@ -1,0 +1,75 @@
+<svg width="820" height="150" viewBox="0 0 820 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: monospace;
+      fill: #111;
+    }
+
+    .index {
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .value {
+      font-size: 15px;
+    }
+
+    .cell {
+      stroke: #333;
+      stroke-width: 2;
+    }
+
+    .header {
+      fill: #e9ecef;
+    }
+
+    .empty {
+      fill: #f8f9fa;
+    }
+
+    .filled {
+      fill: #d8ecff;
+    }
+  </style>
+
+  <rect width="820" height="150" fill="white"/>
+
+  <!-- Indeksirivi -->
+  <rect x="30" y="20" width="76" height="45" class="cell header"/>
+  <rect x="106" y="20" width="76" height="45" class="cell header"/>
+  <rect x="182" y="20" width="76" height="45" class="cell header"/>
+  <rect x="258" y="20" width="76" height="45" class="cell header"/>
+  <rect x="334" y="20" width="76" height="45" class="cell header"/>
+  <rect x="410" y="20" width="76" height="45" class="cell header"/>
+  <rect x="486" y="20" width="76" height="45" class="cell header"/>
+  <rect x="562" y="20" width="76" height="45" class="cell header"/>
+  <rect x="638" y="20" width="76" height="45" class="cell header"/>
+  <rect x="714" y="20" width="76" height="45" class="cell header"/>
+
+  <text x="68" y="49" text-anchor="middle" class="index">0</text>
+  <text x="144" y="49" text-anchor="middle" class="index">1</text>
+  <text x="220" y="49" text-anchor="middle" class="index">2</text>
+  <text x="296" y="49" text-anchor="middle" class="index">3</text>
+  <text x="372" y="49" text-anchor="middle" class="index">4</text>
+  <text x="448" y="49" text-anchor="middle" class="index">5</text>
+  <text x="524" y="49" text-anchor="middle" class="index">6</text>
+  <text x="600" y="49" text-anchor="middle" class="index">7</text>
+  <text x="676" y="49" text-anchor="middle" class="index">8</text>
+  <text x="752" y="49" text-anchor="middle" class="index">9</text>
+
+  <!-- Arvorivi -->
+  <rect x="30" y="65" width="76" height="60" class="cell empty"/>
+  <rect x="106" y="65" width="76" height="60" class="cell empty"/>
+  <rect x="182" y="65" width="76" height="60" class="cell filled"/>
+  <rect x="258" y="65" width="76" height="60" class="cell empty"/>
+  <rect x="334" y="65" width="76" height="60" class="cell empty"/>
+  <rect x="410" y="65" width="76" height="60" class="cell filled"/>
+  <rect x="486" y="65" width="76" height="60" class="cell empty"/>
+  <rect x="562" y="65" width="76" height="60" class="cell filled"/>
+  <rect x="638" y="65" width="76" height="60" class="cell empty"/>
+  <rect x="714" y="65" width="76" height="60" class="cell empty"/>
+
+  <text x="220" y="101" text-anchor="middle" class="value">apina</text>
+  <text x="448" y="101" text-anchor="middle" class="value">cembalo</text>
+  <text x="600" y="101" text-anchor="middle" class="value">banaani</text>
+</svg>
