@@ -1,0 +1,103 @@
+<svg width="940" height="240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrowNext" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#2563eb" />
+    </marker>
+
+    <marker id="arrowPrev" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#dc2626" />
+    </marker>
+
+    <style>
+      .node {
+        fill: #f8fafc;
+        stroke: #0f172a;
+        stroke-width: 2;
+      }
+
+      .field-line {
+        stroke: #0f172a;
+        stroke-width: 1.5;
+      }
+
+      .label {
+        font-family: monospace;
+        font-size: 16px;
+        fill: #0f172a;
+      }
+
+      .next {
+        stroke: #2563eb;
+        stroke-width: 2.5;
+        fill: none;
+        marker-end: url(#arrowNext);
+      }
+
+      .prev {
+        stroke: #dc2626;
+        stroke-width: 2.5;
+        fill: none;
+        marker-end: url(#arrowPrev);
+      }
+
+      .null {
+        font-family: monospace;
+        font-size: 15px;
+        fill: #475569;
+      }
+    </style>
+  </defs>
+
+  <!-- Solmu 1 -->
+  <rect x="100" y="60" width="150" height="120" rx="8" class="node" />
+  <line x1="100" y1="100" x2="250" y2="100" class="field-line" />
+  <line x1="100" y1="140" x2="250" y2="140" class="field-line" />
+
+  <text x="115" y="85" class="label">value: 1</text>
+  <text x="115" y="125" class="label">prev</text>
+  <text x="115" y="165" class="label">next</text>
+
+  <!-- Solmu 2 -->
+  <rect x="300" y="60" width="150" height="120" rx="8" class="node" />
+  <line x1="300" y1="100" x2="450" y2="100" class="field-line" />
+  <line x1="300" y1="140" x2="450" y2="140" class="field-line" />
+
+  <text x="315" y="85" class="label">value: 2</text>
+  <text x="315" y="125" class="label">prev</text>
+  <text x="315" y="165" class="label">next</text>
+
+  <!-- Solmu 3 -->
+  <rect x="500" y="60" width="150" height="120" rx="8" class="node" />
+  <line x1="500" y1="100" x2="650" y2="100" class="field-line" />
+  <line x1="500" y1="140" x2="650" y2="140" class="field-line" />
+
+  <text x="515" y="85" class="label">value: 3</text>
+  <text x="515" y="125" class="label">prev</text>
+  <text x="515" y="165" class="label">next</text>
+
+  <!-- Solmu 4 -->
+  <rect x="700" y="60" width="150" height="120" rx="8" class="node" />
+  <line x1="700" y1="100" x2="850" y2="100" class="field-line" />
+  <line x1="700" y1="140" x2="850" y2="140" class="field-line" />
+
+  <text x="715" y="85" class="label">value: 4</text>
+  <text x="715" y="125" class="label">prev</text>
+  <text x="715" y="165" class="label">next</text>
+
+  <!-- next-linkit -->
+  <path d="M250 160 C270 195, 280 195, 300 160" class="next" />
+  <path d="M450 160 C470 195, 480 195, 500 160" class="next" />
+  <path d="M650 160 C670 195, 680 195, 700 160" class="next" />
+
+  <!-- prev-linkit -->
+  <path d="M300 120 C280 85, 270 85, 250 120" class="prev" />
+  <path d="M500 120 C480 85, 470 85, 450 120" class="prev" />
+  <path d="M700 120 C680 85, 670 85, 650 120" class="prev" />
+
+  <!-- NULL-linkit -->
+  <path d="M100 120 L65 120" class="prev" />
+  <text x="20" y="125" class="null">NULL</text>
+
+  <path d="M850 160 L895 160" class="next" />
+  <text x="905" y="165" class="null">NULL</text>
+</svg>
