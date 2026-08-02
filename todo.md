@@ -63,6 +63,9 @@ hide: true
 ## Luku 8
 
 - Mitä `#include` oikeastaan tekee?
+- Avainsanat `register` ja `volatile`
+- Työkalut `nm`, `objdump`, muita?
+- Compiler Explorer (godbolt)
 
 ## Luku 9
 
