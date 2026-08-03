@@ -36,6 +36,7 @@ hide: true
 - Parametri vs. argumentti
 - Funktion `scanf` virhetilanteet
 - Esikääntäjä ja `#define` jo täällä?
+- Paremmin että sama C-ohjelma toimii eri ympäristöissä (toisin kuin konekielessä)
 
 ## Luku 2
 
@@ -69,8 +70,12 @@ hide: true
 
 ## Luku 9
 
+- Mitä `$0x402000` tarkoittaa? Voiko katsoa myös osion `.data` sisällön?
+
 ## Luku 10
 
 ## Luku 11
 
 ## Luku 12
+
+- Kanarianlintu
