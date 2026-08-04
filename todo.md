@@ -71,10 +71,13 @@ hide: true
 ## Luku 9
 
 - Mitä `$0x402000` tarkoittaa? Voiko katsoa myös osion `.data` sisällön?
+- Kommentointi
 
 ## Luku 10
 
 ## Luku 11
+
+- `mov` vs. `lea`
 
 ## Luku 12
 
