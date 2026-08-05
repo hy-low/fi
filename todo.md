@@ -22,6 +22,7 @@ hide: true
   - Mitä voidaan esittää tarkasti liukuluvuilla
 - Standardikirjaston funktioihin linkit referenssiin?
 - Muutenkin tietoa C-referensseistä netissä? Entä C-kirjat?
+- Funktio `exit` lopettaa ohjelman
 
 ## Luku 1
 
@@ -75,9 +76,9 @@ hide: true
 
 ## Luku 10
 
-## Luku 11
-
 - `mov` vs. `lea`
+
+## Luku 11
 
 ## Luku 12
 
