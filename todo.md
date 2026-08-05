@@ -76,7 +76,7 @@ hide: true
 
 ## Luku 10
 
-- `mov` vs. `lea`
+- RIP-relative addressing
 
 ## Luku 11
 
