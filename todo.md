@@ -23,6 +23,7 @@ hide: true
 - Standardikirjaston funktioihin linkit referenssiin?
 - Muutenkin tietoa C-referensseistä netissä? Entä C-kirjat?
 - Funktio `exit` lopettaa ohjelman
+- Bittisyys historiassa? 8, 16, 32, 64?
 
 ## Luku 1
 
@@ -77,6 +78,8 @@ hide: true
 ## Luku 10
 
 - RIP-relative addressing
+- Parempi sana tiedosto-osoittimelle
+- Vaihtoehdot systeemikutsuille
 
 ## Luku 11
 
