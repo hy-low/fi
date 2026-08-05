@@ -24,6 +24,10 @@ hide: true
 - Muutenkin tietoa C-referensseistä netissä? Entä C-kirjat?
 - Funktio `exit` lopettaa ohjelman
 - Bittisyys historiassa? 8, 16, 32, 64?
+- float muuttuu doubleksi vaihtuvassa parametrilistassa, entä muut?
+- Samaa tunnusta voidaan käyttää monessa yhteydessä?
+- Turvallisuus ei ollut samassa roolissa ennen
+- Virheenkäsittely ohjelmissa??
 
 ## Luku 1
 
@@ -39,14 +43,23 @@ hide: true
 - Funktion `scanf` virhetilanteet
 - Esikääntäjä ja `#define` jo täällä?
 - Paremmin että sama C-ohjelma toimii eri ympäristöissä (toisin kuin konekielessä)
+- Funktio = aliohjelma, muita sanoja?
+- Funktion otsikko (header) ja runko (body)?
+- Myös funktiokutsu on lauseke
+- Muuttujan näkyvyysalue paremmin (paikallinen vs. globaali)
 
 ## Luku 2
 
 - `struct __attribute__((__packed__))` pakkaus
+- offsetof makro?
 - Bittikentät (bit fields)
 - Mikä on `NULL`-osoitin?
+- Esittele `->` jo tässä vaiheessa?
+- Termi yhden komplementti?
 
 ## Luku 3
+
+- Parametria `const` voi kuitenkin muuttaa?
 
 ## Luku 4
 
@@ -59,9 +72,14 @@ hide: true
 
 ## Luku 6
 
+- File descriptor -> tiedoston tunniste?
+- `freopen`?
+- RLE-purku hienommin bitset/union avulla?
+
 ## Luku 7
 
 - Esittele `#pragma once`?
+- Make vai Makefile?
 
 ## Luku 8
 
@@ -69,6 +87,7 @@ hide: true
 - Avainsanat `register` ja `volatile`
 - Työkalut `nm`, `objdump`, muita?
 - Compiler Explorer (godbolt)
+- Esittele mielekäs osa tiedostosta `stdio.h`
 
 ## Luku 9
 
@@ -80,6 +99,7 @@ hide: true
 - RIP-relative addressing
 - Parempi sana tiedosto-osoittimelle
 - Vaihtoehdot systeemikutsuille
+- Systeemikutsujen yhteys C-standardikirjastoon
 
 ## Luku 11
 
