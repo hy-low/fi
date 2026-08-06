@@ -80,6 +80,7 @@ hide: true
 
 - Esittele `#pragma once`?
 - Make vai Makefile?
+- Otsikkotiedosto kätevä myös koska esittelee funktiot
 
 ## Luku 8
 
@@ -102,6 +103,8 @@ hide: true
 - Systeemikutsujen yhteys C-standardikirjastoon
 
 ## Luku 11
+
+- Ohjelman suorituksen tutkiminen
 
 ## Luku 12
 
