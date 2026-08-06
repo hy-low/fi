@@ -103,11 +103,12 @@ hide: true
 - Vaihtoehdot systeemikutsuille
 - Systeemikutsujen yhteys C-standardikirjastoon
 - Kertomassa aliohjelmat ensin, sitten pääohjelma?
+- Systeemikutsujen näyttäminen
 
 ## Luku 11
 
 - Mainitse `rip` sopivissa kohdissa
-- Ohjelman suorituksen tutkiminen
+- Esimerkki joka lukee tietoa tiedostosta?
 
 ## Luku 12
 
