@@ -1,0 +1,84 @@
+<svg width="1900" height="150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .addr {
+      font: 14px monospace;
+      fill: #555;
+    }
+
+    .varname {
+      font: 26px monospace;
+      text-anchor:middle;
+    }
+
+    .phase {
+      font: 20px monospace;
+      text-anchor:middle;
+    }
+
+    .empty {
+      fill: #dddddd;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .var {
+      fill: #9999ee;
+      stroke: black;
+      stroke-width: 2;
+    }
+
+    .brace {
+      stroke: #333;
+      stroke-width: 3;
+      fill: none;
+    }
+  </style>
+
+  <rect x="50" y="30" width="50" height="50" class="empty"/>
+  <rect x="100" y="30" width="50" height="50" class="empty"/>
+  <rect x="150" y="30" width="50" height="50" class="empty"/>
+  <rect x="200" y="30" width="50" height="50" class="empty"/>
+  <rect x="250" y="30" width="50" height="50" class="empty"/>
+  <rect x="300" y="30" width="50" height="50" class="empty"/>
+  <rect x="350" y="30" width="50" height="50" class="empty"/>
+  <rect x="400" y="30" width="50" height="50" class="empty"/>
+  <rect x="450" y="30" width="50" height="50" class="empty"/>
+  <rect x="500" y="30" width="50" height="50" class="empty"/>
+  <rect x="550" y="30" width="50" height="50" class="var"/>
+  <rect x="600" y="30" width="50" height="50" class="var"/>
+  <rect x="650" y="30" width="50" height="50" class="var"/>
+  <rect x="700" y="30" width="50" height="50" class="var"/>
+  <rect x="750" y="30" width="50" height="50" class="var"/>
+  <rect x="800" y="30" width="50" height="50" class="var"/>
+  <rect x="850" y="30" width="50" height="50" class="var"/>
+  <rect x="900" y="30" width="50" height="50" class="var"/>
+  <rect x="950" y="30" width="50" height="50" class="var"/>
+  <rect x="1000" y="30" width="50" height="50" class="var"/>
+  <rect x="1050" y="30" width="50" height="50" class="var"/>
+  <rect x="1100" y="30" width="50" height="50" class="var"/>
+  <rect x="1150" y="30" width="50" height="50" class="var"/>
+  <rect x="1200" y="30" width="50" height="50" class="var"/>
+  <rect x="1250" y="30" width="50" height="50" class="var"/>
+  <rect x="1300" y="30" width="50" height="50" class="var"/>
+  <rect x="1350" y="30" width="50" height="50" class="var"/>
+  <rect x="1400" y="30" width="50" height="50" class="var"/>
+  <rect x="1450" y="30" width="50" height="50" class="var"/>
+  <rect x="1500" y="30" width="50" height="50" class="var"/>
+  <rect x="1550" y="30" width="50" height="50" class="var"/>
+  <rect x="1600" y="30" width="50" height="50" class="var"/>
+  <rect x="1650" y="30" width="50" height="50" class="var"/>
+  <rect x="1700" y="30" width="50" height="50" class="var"/>
+  <rect x="1750" y="30" width="50" height="50" class="empty"/>
+  <rect x="1800" y="30" width="50" height="50" class="empty"/>
+
+  <path d="M 1355 90 L 1355 100 L 1745 100 L 1745 90" class="brace"/>
+  <text x="1550" y="130" class="varname">1</text>
+
+  <path d="M 955 90 L 955 100 L 1345 100 L 1345 90" class="brace"/>
+  <text x="1150" y="130" class="varname">2</text>
+
+  <path d="M 555 90 L 555 100 L 945 100 L 945 90" class="brace"/>
+  <text x="750" y="130" class="varname">3</text>
+
+  <text x="575" y="20" class="varname">rsp</text>
+</svg>

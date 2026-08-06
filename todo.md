@@ -94,6 +94,7 @@ hide: true
 
 - Mitä `$0x402000` tarkoittaa? Voiko katsoa myös osion `.data` sisällön?
 - Kommentointi
+- Miksi C:ssä `int` on 32-bittinen vaikka 64-bittistä koodia?
 
 ## Luku 10
 
@@ -101,9 +102,11 @@ hide: true
 - Parempi sana tiedosto-osoittimelle
 - Vaihtoehdot systeemikutsuille
 - Systeemikutsujen yhteys C-standardikirjastoon
+- Kertomassa aliohjelmat ensin, sitten pääohjelma?
 
 ## Luku 11
 
+- Mainitse `rip` sopivissa kohdissa
 - Ohjelman suorituksen tutkiminen
 
 ## Luku 12
