@@ -95,6 +95,7 @@ hide: true
 - Mitä `$0x402000` tarkoittaa? Voiko katsoa myös osion `.data` sisällön?
 - Kommentointi
 - Miksi C:ssä `int` on 32-bittinen vaikka 64-bittistä koodia?
+- Ohjelman muistin eri osien rooli: read-only, suoritettava, jne.
 
 ## Luku 10
 
