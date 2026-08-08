@@ -11,7 +11,7 @@ hide: true
 - Paluuarvo vai palautusarvo?
 - Virtuaalinen muisti vs. fyysinen muisti, tuo esille usein
 - Rakenne `enum`
-- Mitkä parametrit käännöksessä? (`-Wall`, `-Wextra`, `-O2`, `-std=c99`)
+- Mitkä parametrit käännöksessä? (`-Wall`, `-Wextra`, `-O2`, `-std=c99`, `-pedantic`)
 - Varmista että kaikkialla `void` jos funktiolla ei ole parametreja
 - Käytetäänkö `return 0` vai ei `main`-funktiossa?
 - Mikä on POSIX?
@@ -22,13 +22,16 @@ hide: true
   - Mitä voidaan esittää tarkasti liukuluvuilla
 - Standardikirjaston funktioihin linkit referenssiin?
 - Muutenkin tietoa C-referensseistä netissä? Entä C-kirjat?
-- Funktio `exit` lopettaa ohjelman
+- Funktio `exit` lopettaa ohjelman -> esittele virheenkäsittelyssä?
 - Bittisyys historiassa? 8, 16, 32, 64?
 - float muuttuu doubleksi vaihtuvassa parametrilistassa, entä muut?
 - Samaa tunnusta voidaan käyttää monessa yhteydessä?
 - Turvallisuus ei ollut samassa roolissa ennen
 - Virheenkäsittely ohjelmissa??
 - Muistihierarkiat (rekisterit, välimuistit)
+- `getchar`, `putchar`, `gets`, `puts`
+- `int` oletustyyppi, jäänne `unsigned` = `unsigned int`
+- `int*` tarkoittaa sekä osoite yhteen lukuun että taulukkoon
 
 ## Luku 1
 
@@ -37,8 +40,9 @@ hide: true
 - Lohko vs. lause ehdoissa ja silmukoissa
 - Operaattoreiden presedenssi
 - Lausekkeen osien suoritusjärjestys (and, or)
-- Operaattori `,`
-- Duff's device?
+- Suoritusjärjestys ei aina selvä
+- Operaattori `,` mikä nimi?
+- Duff's device? tai muuten switch tarkemmin
 - Esimerkkiohjelman rajoitukset? (`long`-tyyppi)
 - Parametri vs. argumentti
 - Funktion `scanf` virhetilanteet
@@ -48,6 +52,8 @@ hide: true
 - Funktion otsikko (header) ja runko (body)?
 - Myös funktiokutsu on lauseke
 - Muuttujan näkyvyysalue paremmin (paikallinen vs. globaali)
+- Tyhjä lause
+- Ehdollinen lauseke: suuremman luvun valinta
 
 ## Luku 2
 
@@ -99,6 +105,7 @@ hide: true
 - Miksi C:ssä `int` on 32-bittinen vaikka 64-bittistä koodia?
 - Ohjelman muistin eri osien rooli: read-only, suoritettava, jne.
 - Titokone
+- Komennon nopeus, ennen kellosyklit, nykyään?`
 
 ## Luku 10
 
@@ -108,6 +115,7 @@ hide: true
 - Systeemikutsujen yhteys C-standardikirjastoon
 - Kertomassa aliohjelmat ensin, sitten pääohjelma?
 - Systeemikutsujen näyttäminen
+- Bittirotaatiot?
 
 ## Luku 11
 
