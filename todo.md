@@ -28,6 +28,7 @@ hide: true
 - Samaa tunnusta voidaan käyttää monessa yhteydessä?
 - Turvallisuus ei ollut samassa roolissa ennen
 - Virheenkäsittely ohjelmissa??
+- Muistihierarkiat (rekisterit, välimuistit)
 
 ## Luku 1
 
@@ -56,6 +57,7 @@ hide: true
 - Mikä on `NULL`-osoitin?
 - Esittele `->` jo tässä vaiheessa?
 - Termi yhden komplementti?
+- `a[i]` tarkoittaa samaa kuin `i[a]`
 
 ## Luku 3
 
@@ -96,6 +98,7 @@ hide: true
 - Kommentointi
 - Miksi C:ssä `int` on 32-bittinen vaikka 64-bittistä koodia?
 - Ohjelman muistin eri osien rooli: read-only, suoritettava, jne.
+- Titokone
 
 ## Luku 10
 

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260">
+  <style>
+    .register { fill: #f0f0f0; stroke: #333; stroke-width: 2; }
+    .label { font-family: monospace; font-size: 14px; text-anchor: middle; }
+    .bit-label { font-family: monospace; font-size: 12px; text-anchor: middle; }
+    .title { font-family: monospace; font-size: 16px; font-weight: bold; text-anchor: middle; }
+  </style>
+
+  <rect x="50" y="20" width="500" height="40" class="register" />
+  <text x="300" y="45" class="label">rax</text>
+
+  <rect x="275" y="80" width="275" height="40" class="register" />
+  <text x="412.5" y="105" class="label">eax</text>
+
+  <rect x="400" y="140" width="150" height="40" class="register" />
+  <text x="475" y="165" class="label">ax</text>
+
+  <rect x="400" y="200" width="75" height="40" class="register" />
+  <rect x="475" y="200" width="75" height="40" class="register" />
+  <text x="437.5" y="225" class="label">ah</text>
+  <text x="512.5" y="225" class="label">al</text>
+
+</svg>
