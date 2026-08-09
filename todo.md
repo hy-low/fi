@@ -105,13 +105,15 @@ hide: true
 - Miksi C:ssä `int` on 32-bittinen vaikka 64-bittistä koodia?
 - Ohjelman muistin eri osien rooli: read-only, suoritettava, jne.
 - Titokone
-- Komennon nopeus, ennen kellosyklit, nykyään?`
+- Komennon nopeus, ennen kellosyklit, nykyään?
+- Joka prosessilla on omat muistialueensa/rekisterinsä
 
 ## Luku 10
 
 - RIP-relative addressing
 - Parempi sana tiedosto-osoittimelle
 - Vaihtoehdot systeemikutsuille
+- Punaisen pisteen piirtämine näytölle ennen
 - Systeemikutsujen yhteys C-standardikirjastoon
 - Kertomassa aliohjelmat ensin, sitten pääohjelma?
 - Systeemikutsujen näyttäminen
