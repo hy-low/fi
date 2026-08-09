@@ -83,6 +83,7 @@ hide: true
 - File descriptor -> tiedoston tunniste?
 - `freopen`?
 - RLE-purku hienommin bitset/union avulla?
+- Toimiiko tiedoston sisällön tulostus vai tarvitaanko `unsigned char`?
 
 ## Luku 7
 
@@ -128,3 +129,4 @@ hide: true
 ## Luku 12
 
 - Kanarianlintu
+- http://ftp.parisc-linux.org/docs/arch/elf-64-hp.pdf
