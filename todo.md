@@ -116,6 +116,7 @@ hide: true
 - Kertomassa aliohjelmat ensin, sitten pääohjelma?
 - Systeemikutsujen näyttäminen
 - Bittirotaatiot?
+- Esittele täällä jo komento `test`?
 
 ## Luku 11
 
