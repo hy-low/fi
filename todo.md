@@ -32,6 +32,9 @@ hide: true
 - `getchar`, `putchar`, `gets`, `puts`
 - `int` oletustyyppi, jäänne `unsigned` = `unsigned int`
 - `int*` tarkoittaa sekä osoite yhteen lukuun että taulukkoon
+- Mitä `#include` oikeastaan tekee?
+- Avainsanat `register` ja `volatile`
+- Esittele mielekäs osa tiedostosta `stdio.h`?
 
 ## Luku 1
 
@@ -77,6 +80,7 @@ hide: true
 - Paremmin taulukon käyttämisestä
   - Taulukon indeksöinti vs. `set`-rakenne
   - Järjestäminen ja binäärihaku vs. hajautus, keko, binäärihakupuu
+- Taulukon enemmistöalkio?
 
 ## Luku 6
 
@@ -93,11 +97,19 @@ hide: true
 
 ## Luku 8
 
-- Mitä `#include` oikeastaan tekee?
-- Avainsanat `register` ja `volatile`
-- Työkalut `nm`, `objdump`, muita?
-- Compiler Explorer (godbolt)
-- Esittele mielekäs osa tiedostosta `stdio.h`
+- Komentojen määrä/yksinkertaisuus (jakolasku -> bitshift)
+- Algoritmin vaikutus
+- Ohjelmointikielen vaikutus
+- Koodin rinnakkainen suoritus (liukuhihna) -> kertoma-esimerkki?
+- Muistin käsittelyn paikallisuus
+- Koodin suorituksen ennustettavuus
+- Koodin profilointi työkalulla
+- Kuinka tietää mitä koodi tekee oikeasti
+- Loop unrolling, komentojen rinnakkaisuus, Duff's device
+- Taulukkolista vs. linkitetty lista
+- Liukuvan ikkunan minimit
+- Funktiokutsun hitaus, inline-funktiot
+- Muistiviittausten tasaus
 
 ## Luku 9
 
@@ -114,12 +126,13 @@ hide: true
 - RIP-relative addressing
 - Parempi sana tiedosto-osoittimelle
 - Vaihtoehdot systeemikutsuille
-- Punaisen pisteen piirtämine näytölle ennen
+- Punaisen pisteen piirtäminen näytölle ennen
 - Systeemikutsujen yhteys C-standardikirjastoon
 - Kertomassa aliohjelmat ensin, sitten pääohjelma?
 - Systeemikutsujen näyttäminen
 - Bittirotaatiot?
 - Esittele täällä jo komento `test`?
+- Rekisterin arvojen vaihtaminen xor-trikillä
 
 ## Luku 11
 
@@ -129,4 +142,5 @@ hide: true
 ## Luku 12
 
 - Kanarianlintu
+- Compiler Explorer (godbolt)
 - http://ftp.parisc-linux.org/docs/arch/elf-64-hp.pdf
