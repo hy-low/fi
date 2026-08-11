@@ -133,6 +133,7 @@ hide: true
 - Bittirotaatiot?
 - Esittele täällä jo komento `test`?
 - Rekisterin arvojen vaihtaminen xor-trikillä
+- struct ja liukuluvut
 
 ## Luku 11
 
@@ -141,6 +142,6 @@ hide: true
 
 ## Luku 12
 
-- Kanarianlintu
+- Kanarianlintu kuvitus
 - Compiler Explorer (godbolt)
 - http://ftp.parisc-linux.org/docs/arch/elf-64-hp.pdf
