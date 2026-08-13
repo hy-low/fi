@@ -35,6 +35,7 @@ hide: true
 - Mitä `#include` oikeastaan tekee?
 - Avainsanat `register` ja `volatile`
 - Esittele mielekäs osa tiedostosta `stdio.h`?
+- `return x - y` ei toimi oikein järjestämisessä?
 
 ## Luku 1
 
