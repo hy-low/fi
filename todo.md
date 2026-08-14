@@ -111,6 +111,7 @@ hide: true
 - Liukuvan ikkunan minimit
 - Funktiokutsun hitaus, inline-funktiot
 - Muistiviittausten tasaus
+- Silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 
 ## Luku 9
 
