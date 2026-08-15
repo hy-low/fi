@@ -55,6 +55,7 @@ hide: true
 - Muuttujan näkyvyysalue paremmin (paikallinen vs. globaali)
 - Tyhjä lause
 - Ehdollinen lauseke: suuremman luvun valinta
+- Vertailu `switch` ja Pascalin rakenne
 
 ## Luku 2
 
