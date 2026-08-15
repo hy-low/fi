@@ -13,7 +13,7 @@ hide: true
 - Rakenne `enum`
 - Mitkä parametrit käännöksessä? (`-Wall`, `-Wextra`, `-O2`, `-std=c99`, `-pedantic`)
 - Varmista että kaikkialla `void` jos funktiolla ei ole parametreja
-- Käytetäänkö `return 0` vai ei `main`-funktiossa?
+- Mikä on `main`-funktion palautusarvo ja miksi on tai ei ole `return 0`
 - Mikä on POSIX?
 - Syntaksi `\` merkeissä ja merkkijonoissa
 - Lukujen kantajärjestelmät paremmin?
