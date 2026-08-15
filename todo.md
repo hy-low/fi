@@ -39,13 +39,10 @@ hide: true
 
 ## Luku 1
 
-- Lause ja lauseke paremmin
-- Lause vs. komento
 - Lohko vs. lause ehdoissa ja silmukoissa
 - Operaattoreiden presedenssi
 - Lausekkeen osien suoritusjärjestys (and, or)
 - Suoritusjärjestys ei aina selvä
-- Operaattori `,` mikä nimi?
 - Duff's device? tai muuten switch tarkemmin
 - Esimerkkiohjelman rajoitukset? (`long`-tyyppi)
 - Parametri vs. argumentti
