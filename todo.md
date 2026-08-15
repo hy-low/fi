@@ -48,7 +48,6 @@ hide: true
 - Funktion `scanf` virhetilanteet
 - Esikääntäjä ja `#define` jo täällä?
 - Paremmin että sama C-ohjelma toimii eri ympäristöissä (toisin kuin konekielessä)
-- Funktio = aliohjelma, muita sanoja?
 - Funktion otsikko (header) ja runko (body)?
 - Myös funktiokutsu on lauseke
 - Muuttujan näkyvyysalue paremmin (paikallinen vs. globaali)
