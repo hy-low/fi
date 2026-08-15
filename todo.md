@@ -127,6 +127,7 @@ hide: true
 
 ## Luku 12
 
+- Tarkasta käännetyt koodit (puuttuvia arvojen kokoja?)
 - Kanarianlintu kuvitus
 - Compiler Explorer (godbolt)
 - http://ftp.parisc-linux.org/docs/arch/elf-64-hp.pdf
