@@ -33,13 +33,12 @@ hide: true
 - `int` oletustyyppi, jäänne `unsigned` = `unsigned int`
 - `int*` tarkoittaa sekä osoite yhteen lukuun että taulukkoon
 - Mitä `#include` oikeastaan tekee?
-- Avainsanat `register` ja `volatile`
+- Avainsana `volatile`?
 - Esittele mielekäs osa tiedostosta `stdio.h`?
 - `return x - y` ei toimi oikein järjestämisessä?
 
 ## Luku 1
 
-- Lohko vs. lause ehdoissa ja silmukoissa
 - Operaattoreiden presedenssi
 - Lausekkeen osien suoritusjärjestys (and, or)
 - Suoritusjärjestys ei aina selvä
@@ -53,8 +52,6 @@ hide: true
 - Funktion otsikko (header) ja runko (body)?
 - Myös funktiokutsu on lauseke
 - Muuttujan näkyvyysalue paremmin (paikallinen vs. globaali)
-- Tyhjä lause
-- Ehdollinen lauseke: suuremman luvun valinta
 - Vertailu `switch` ja Pascalin rakenne
 
 ## Luku 2
@@ -96,18 +93,8 @@ hide: true
 
 ## Luku 8
 
-- Komentojen määrä/yksinkertaisuus (jakolasku -> bitshift)
-- Algoritmin vaikutus
 - Ohjelmointikielen vaikutus
-- Koodin rinnakkainen suoritus (liukuhihna) -> kertoma-esimerkki?
-- Muistin käsittelyn paikallisuus
-- Koodin suorituksen ennustettavuus
-- Koodin profilointi työkalulla
 - Kuinka tietää mitä koodi tekee oikeasti
-- Loop unrolling, komentojen rinnakkaisuus, Duff's device
-- Taulukkolista vs. linkitetty lista
-- Liukuvan ikkunan minimit
-- Funktiokutsun hitaus, inline-funktiot
 - Muistiviittausten tasaus
 - Silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 
