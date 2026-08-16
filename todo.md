@@ -6,6 +6,17 @@ hide: true
 
 # TODO
 
+## Tärkeää tehtävää pian
+
+- Esimerkkitulosteiden kieli englanniksi
+- Muuta `switch` -> switch jne.?
+- Käytä `size_t` oikeissa paikoissa
+- Luku 1: käsittele esikääntäjää
+- Luku 1: laskujärjestys ja muut asiat lausekkeissa
+- Luku 1: main-funktion palautusarvo loppuun
+- Luku 2: rakenteisen tietotyypin muistinvaraus
+- Luku 2: syntaksi kentän käsittelyyn osoittimen kautta
+
 ## Yleistä
 
 - Paluuarvo vai palautusarvo?
@@ -35,6 +46,10 @@ hide: true
 - Avainsana `volatile`?
 - Esittele mielekäs osa tiedostosta `stdio.h`?
 - `return x - y` ei toimi oikein järjestämisessä?
+- Kaikki koodiesimerkkien tulostukset englanniksi?
+- Rakenteiden nimet: `switch`-rakenne vai switch-rakenne?
+- Yhdenmukaisesti arvot: 42 vai `42`
+- Tarkasta kuvien skaalausta (ainakin luvussa 2)
 
 ## Luku 1
 
@@ -50,10 +65,16 @@ hide: true
 - Funktion otsikko (header) ja runko (body)?
 - Myös funktiokutsu on lauseke
 - Muuttujan näkyvyysalue paremmin (paikallinen vs. globaali)
-- Vertailu `switch` ja Pascalin rakenne
+- Muut C:n aikalaiskielet, historiallinen tausta
+- Muuttujan näkyvyysalue: kuitenkin vasta määrittelyn jälkeen lohkossa
+- Käsittele paremmin for-silmukka
+- Parempi esimerkki goto-komennosta monikerroksisessa silmukassa
+- Kerro kielten eroista arvoparametrien ja viittausparametrien käytössä
 
 ## Luku 2
 
+- Tyyppi `long long` mukaan vai ei?
+- Miksi kahden komplementtia käytetään?
 - `struct __attribute__((__packed__))` pakkaus
 - offsetof makro?
 - Bittikentät (bit fields)
