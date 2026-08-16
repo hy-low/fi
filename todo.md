@@ -12,6 +12,7 @@ hide: true
 - Esimerkkitulosteiden kieli englanniksi
 - Muuta `switch` -> switch jne.?
 - Käytä `size_t` oikeissa paikoissa
+- Lippu `-O2` (ja muitakin?) sopivassa kohdassa
 - Luku 1: käsittele esikääntäjää
 - Luku 1: laskujärjestys ja muut asiat lausekkeissa
 - Luku 1: main-funktion parametrit ja palautusarvo loppuun?
@@ -23,6 +24,10 @@ hide: true
 - Luku 5: `array_list_print` ei toimi järkevästi yleisessä toteutuksessa -> käytä mieluummin `array_list_get` pääfunktiossa?
 - Luku 5: taulukon vahvuudet
 - Luku 6: muuta main-funktion selostusta ottaen huomioon luvun 1 muutokset
+- Luku 8: muuta/paranna esimerkki `total += items[i]` ja koko osio
+- Luku 8: testiaineisto
+- Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
+- Luku 8: liukuvan ikkunan minimi
 
 ## Yleistä
 
@@ -130,6 +135,7 @@ hide: true
 - Muistiviittausten tasaus
 - Silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Taulukkolista vs. linkitetty lista
+- Optimointi on huono sana?
 
 ## Luku 9
 
