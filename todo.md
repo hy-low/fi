@@ -18,7 +18,10 @@ hide: true
 - Luku 2: rakenteinen vs. perustietotyyppi
 - Luku 2: syntaksi kentän käsittelyyn osoittimen kautta
 - Luku 2: rakenteisen tietotyypin muistinvaraus
-
+- Luku 5: lisää virheenkäsittely tietorakenteisiin
+- Luku 5: syntaksi `->` käyty tulevaisuudessa jo aiemmin
+- Luku 5: `array_list_print` ei toimi järkevästi yleisessä toteutuksessa -> käytä mieluummin `array_list_get` pääfunktiossa?
+- Luku 5: taulukon vahvuudet
 
 ## Yleistä
 
@@ -99,6 +102,7 @@ hide: true
 
 ## Luku 5
 
+- Parempi hajautustapa kuin lineaarinen kokeilu?
 - Pythonin toteutuksiin vertaileminen?
 - Paremmin taulukon käyttämisestä
   - Taulukon indeksöinti vs. `set`-rakenne
@@ -124,6 +128,7 @@ hide: true
 - Kuinka tietää mitä koodi tekee oikeasti
 - Muistiviittausten tasaus
 - Silmukan purkaminen ja funktion upotus lisäävät koodin määrää
+- Taulukkolista vs. linkitetty lista
 
 ## Luku 9
 
