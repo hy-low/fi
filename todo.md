@@ -8,6 +8,7 @@ hide: true
 
 ## Tärkeää tehtävää pian
 
+- Kaikkien lukujen johdantotekstit
 - Esimerkkitulosteiden kieli englanniksi
 - Muuta `switch` -> switch jne.?
 - Käytä `size_t` oikeissa paikoissa
@@ -93,6 +94,8 @@ hide: true
 - Merkkikoodit unsigned-arvoina UTF-8-esimerkissä?
 
 ## Luku 4
+
+- Avainsanan `auto` uusi käyttö C23-standardissa
 
 ## Luku 5
 
