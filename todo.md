@@ -14,8 +14,10 @@ hide: true
 - Luku 1: käsittele esikääntäjää
 - Luku 1: laskujärjestys ja muut asiat lausekkeissa
 - Luku 1: main-funktion palautusarvo loppuun
-- Luku 2: rakenteisen tietotyypin muistinvaraus
+- Luku 2: rakenteinen vs. perustietotyyppi
 - Luku 2: syntaksi kentän käsittelyyn osoittimen kautta
+- Luku 2: rakenteisen tietotyypin muistinvaraus
+
 
 ## Yleistä
 
@@ -50,6 +52,8 @@ hide: true
 - Rakenteiden nimet: `switch`-rakenne vai switch-rakenne?
 - Yhdenmukaisesti arvot: 42 vai `42`
 - Tarkasta kuvien skaalausta (ainakin luvussa 2)
+- Tarkasta että console käytetty kaikissa tulostusesimerkeissä
+- Toteuta merkkijonojen yms. läpikäynti C-tyylisesti
 
 ## Luku 1
 
@@ -86,6 +90,7 @@ hide: true
 ## Luku 3
 
 - Parametria `const` voi kuitenkin muuttaa?
+- Merkkikoodit unsigned-arvoina UTF-8-esimerkissä?
 
 ## Luku 4
 
