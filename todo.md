@@ -60,6 +60,7 @@ hide: true
 - Tarkasta että console käytetty kaikissa tulostusesimerkeissä
 - Toteuta merkkijonojen yms. läpikäynti C-tyylisesti
 - Voiko kurssimateriaalin koodimerkinnän värityksiä korjailla?
+- Binääritiedosto, ohjelmatiedosto vai mikä nimi?
 
 ## Luku 1
 
@@ -120,7 +121,6 @@ hide: true
 ## Luku 7
 
 - Esittele `#pragma once`?
-- Make vai Makefile?
 - Otsikkotiedosto kätevä myös koska esittelee funktiot
 
 ## Luku 8
