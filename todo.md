@@ -40,7 +40,6 @@ hide: true
 - Luku 10: `cmp` lisäksi myös `test`? (selvitä)
 - Luku 10: vaihtoehdot systeemikutsulle
 - Luku 10: mitä tarkoittaa `-no-pie`
-- Luku 11: kerro alussa tarkemmin pinosta, esim. miten muistialue varataan ja että prosessori tukee sen käyttämistä
 - Luku 11: xor-trikki rekisterien vaihtamiseen
 - Luku 11: mitä `next_rip` tarkoittaa -> selitä paremmin `call` ja `ret` (kutsukohdan paluuosoite hyvä termi?)
 - Luku 11: pieni ero rekistereissä verrattuna systeemikutsuun, epätavallinen mutta tehokas ratkaisu
