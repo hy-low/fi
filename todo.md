@@ -41,7 +41,6 @@ hide: true
 - Luku 10: vaihtoehdot systeemikutsulle
 - Luku 10: mitä tarkoittaa `-no-pie`
 - Luku 11: mitä `next_rip` tarkoittaa -> selitä paremmin `call` ja `ret` (kutsukohdan paluuosoite hyvä termi?)
-- Luku 11: pieni ero rekistereissä verrattuna systeemikutsuun, epätavallinen mutta tehokas ratkaisu
 - Luku 11: miksi pino tulee tasata ennen aliohjelman kutsua?
 - Luku 12: johdanto joka kertoo mitä ohjelma tekee
 - Luku 12: tarkasta assembly-koodit (puuttuvia asioita)
