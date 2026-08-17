@@ -38,7 +38,6 @@ hide: true
 - Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
 - Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]`
 - Luku 10: TODO-asiat `idiv`-komennossa
-- Luku 10: `cmp` lisäksi myös `test`? (selvitä)
 - Luku 10: vaihtoehdot systeemikutsulle
 - Luku 10: mitä tarkoittaa `-no-pie`
 - Luku 11: mitä `next_rip` tarkoittaa -> selitä paremmin `call` ja `ret` (kutsukohdan paluuosoite hyvä termi?)
@@ -48,7 +47,6 @@ hide: true
 - Luku 12: tarkasta assembly-koodit (puuttuvia asioita)
 - Luku 12: kerro tarkemmin tietoturvasta
 - Luku 12: vaikea seurata koodin analyysia, mitä tehdä?
-- Luku 12: miksi käytetään `test` eikä `cmp`?
 - Luku 12: kerro paremmin `add rax, 1` ja `inc rax` erosta
 - Luku 12: selkeämmin optimoidun koodin lisäoptimointi
 - Luku 12: ELF-tiedoston käsittely loppuun
@@ -181,7 +179,6 @@ hide: true
 - Kertomassa aliohjelmat ensin, sitten pääohjelma?
 - Systeemikutsujen näyttäminen
 - Bittirotaatiot?
-- Esittele täällä jo komento `test`?
 - struct ja liukuluvut
 - Näytä myös komento `mov rax, 0` tavutasolla xor-trikissä
 
