@@ -10,6 +10,9 @@ hide: true
 
 - Kaikkien lukujen johdantotekstit
 - Esimerkkitulosteiden kieli englanniksi
+- Mieti miten esittää pitkän koodin analyysi osissa hyvin
+- Mainitse että tavuesitykset ovat materiaalissa yleisesti heksalukuina
+- Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
 - Muuta `switch` -> switch jne.?
 - Käytä `size_t` oikeissa paikoissa
 - Lippu `-O2` (ja muitakin?) sopivassa kohdassa
@@ -28,6 +31,29 @@ hide: true
 - Luku 8: testiaineisto
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Luku 8: liukuvan ikkunan minimi
+- Luku 9: mainitse liukuluku- ja vektorirekisterit
+- Luku 9: muuttuja vs. taulukko vs. muistialue (myös luvussa 10)
+- Luku 9: tavukoodin analyysi paremmin
+- Luku 9: ohjelman koodi myös muistissa, rajoitukset muistialueissa
+- Luku 9: liukuhihnasta yms. jotain?
+- Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
+- Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]`
+- Luku 10: `cmp` lisäksi myös `test`? (selvitä)
+- Luku 10: vaihtoehdot systeemikutsulle
+- Luku 10: mitä tarkoittaa `-no-pie`
+- Luku 11: kerro alussa tarkemmin pinosta, esim. miten muistialue varataan ja että prosessori tukee sen käyttämistä
+- Luku 11: xor-trikki rekisterien vaihtamiseen
+- Luku 11: mitä `next_rip` tarkoittaa -> selitä paremmin `call` ja `ret` (kutsukohdan paluuosoite hyvä termi?)
+- Luku 11: pieni ero rekistereissä verrattuna systeemikutsuun, epätavallinen mutta tehokas ratkaisu
+- Luku 11: miksi pino tulee tasata ennen aliohjelman kutsua?
+- Luku 12: johdanto joka kertoo mitä ohjelma tekee
+- Luku 12: tarkasta assembly-koodit (puuttuvia asioita)
+- Luku 12: kerro tarkemmin tietoturvasta
+- Luku 12: vaikea seurata koodin analyysia, mitä tehdä?
+- Luku 12: miksi käytetään `test` eikä `cmp`?
+- Luku 12: kerro paremmin `add rax, 1` ja `inc rax` erosta
+- Luku 12: selkeämmin optimoidun koodin lisäoptimointi
+- Luku 12: ELF-tiedoston käsittely loppuun
 
 ## Yleistä
 
@@ -158,13 +184,15 @@ hide: true
 - Systeemikutsujen näyttäminen
 - Bittirotaatiot?
 - Esittele täällä jo komento `test`?
-- Rekisterin arvojen vaihtaminen xor-trikillä
 - struct ja liukuluvut
+- Näytä myös komento `mov rax, 0` tavutasolla xor-trikissä
 
 ## Luku 11
 
 - Mainitse `rip` sopivissa kohdissa
 - Esimerkki joka lukee tietoa tiedostosta?
+- Rekisterin arvojen vaihtaminen xor-trikillä
+- Kolmas esimerkki funktion toteuttamisesta?
 
 ## Luku 12
 
