@@ -1,4 +1,4 @@
-<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="140" xmlns="http://www.w3.org/2000/svg">
   <style>
     .addr {
       font: 14px monospace;
@@ -49,6 +49,8 @@
   <rect x="600" y="30" width="50" height="50" class="empty"/>
   <rect x="650" y="30" width="50" height="50" class="empty"/>
   <rect x="700" y="30" width="50" height="50" class="empty"/>
+  <rect x="750" y="30" width="50" height="50" class="empty"/>
+  <rect x="800" y="30" width="50" height="50" class="empty"/>
 
   <path d="
     M 155 90

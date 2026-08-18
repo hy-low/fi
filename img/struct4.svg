@@ -43,14 +43,14 @@
 
   <rect x="50" y="30" width="50" height="50" class="empty"/>
   <rect x="100" y="30" width="50" height="50" class="empty"/>
-  <rect x="150" y="30" width="50" height="50" class="varx"/>
-  <rect x="200" y="30" width="50" height="50" class="varx"/>
-  <rect x="250" y="30" width="50" height="50" class="varx"/>
-  <rect x="300" y="30" width="50" height="50" class="varx"/>
-  <rect x="350" y="30" width="50" height="50" class="vary"/>
-  <rect x="400" y="30" width="50" height="50" class="varz"/>
-  <rect x="450" y="30" width="50" height="50" class="varz"/>
-  <rect x="500" y="30" width="50" height="50" class="varz"/>
+  <rect x="150" y="30" width="50" height="50" class="vary"/>
+  <rect x="200" y="30" width="50" height="50" class="vary"/>
+  <rect x="250" y="30" width="50" height="50" class="varz"/>
+  <rect x="300" y="30" width="50" height="50" class="varz"/>
+  <rect x="350" y="30" width="50" height="50" class="varx"/>
+  <rect x="400" y="30" width="50" height="50" class="varx"/>
+  <rect x="450" y="30" width="50" height="50" class="varx"/>
+  <rect x="500" y="30" width="50" height="50" class="varx"/>
   <rect x="550" y="30" width="50" height="50" class="empty"/>
   <rect x="600" y="30" width="50" height="50" class="empty"/>
   <rect x="650" y="30" width="50" height="50" class="empty"/>
@@ -61,18 +61,27 @@
   <path d="
     M 155 90
     L 155 100
-    L 345 100
-    L 345 90
+    L 195 100
+    L 195 90
   " class="brace"/>
 
-  <text x="250" y="120" class="varname">a</text>
+  <text x="175" y="120" class="varname">a</text>
+
+  <path d="
+    M 205 90
+    L 205 100
+    L 245 100
+    L 245 90
+  " class="brace"/>
+
+  <text x="225" y="120" class="varname">c</text>
 
   <path d="
     M 355 90
     L 355 100
-    L 395 100
-    L 395 90
+    L 545 100
+    L 545 90
   " class="brace"/>
 
-  <text x="375" y="120" class="varname">b</text>
+  <text x="450" y="120" class="varname">b</text>
 </svg>
