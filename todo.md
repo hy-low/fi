@@ -19,11 +19,7 @@ hide: true
 - Luku 1: käsittele esikääntäjää
 - Luku 1: laskujärjestys ja muut asiat lausekkeissa
 - Luku 1: main-funktion parametrit ja palautusarvo loppuun?
-- Luku 2: rakenteinen vs. perustietotyyppi
-- Luku 2: syntaksi kentän käsittelyyn osoittimen kautta
-- Luku 2: rakenteisen tietotyypin muistinvaraus
 - Luku 5: lisää virheenkäsittely tietorakenteisiin
-- Luku 5: syntaksi `->` käyty tulevaisuudessa jo aiemmin
 - Luku 5: `array_list_print` ei toimi järkevästi yleisessä toteutuksessa -> käytä mieluummin `array_list_get` pääfunktiossa?
 - Luku 5: taulukon vahvuudet
 - Luku 6: muuta main-funktion selostusta ottaen huomioon luvun 1 muutokset
@@ -110,13 +106,12 @@ hide: true
 
 - Tyyppi `long long` mukaan vai ei?
 - Miksi kahden komplementtia käytetään?
-- `struct __attribute__((__packed__))` pakkaus
 - offsetof makro?
 - Bittikentät (bit fields)
 - Mikä on `NULL`-osoitin?
-- Esittele `->` jo tässä vaiheessa?
 - Termi yhden komplementti?
 - `a[i]` tarkoittaa samaa kuin `i[a]`
+- Ennen structia voisi kertoa jo tiedon kohdistuksesta muistissa ja muistiosoitteista vähän tarkemmin
 
 ## Luku 3
 
