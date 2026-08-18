@@ -27,7 +27,6 @@ hide: true
 - Luku 8: testiaineisto
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Luku 8: liukuvan ikkunan minimi
-- Luku 9: tavukoodin analyysi paremmin
 - Luku 9: ohjelman koodi myös muistissa, rajoitukset muistialueissa
 - Luku 9: liukuhihnasta yms. jotain?
 - Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
