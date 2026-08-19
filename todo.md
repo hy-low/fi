@@ -13,7 +13,6 @@ hide: true
 - Mieti miten esittää pitkän koodin analyysi osissa hyvin
 - Mainitse että tavuesitykset ovat materiaalissa yleisesti heksalukuina
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
-- Muuta `switch` -> switch jne.?
 - Käytä `size_t` oikeissa paikoissa
 - Lippu `-O2` (ja muitakin?) sopivassa kohdassa
 - Luku 1: käsittele esikääntäjää
