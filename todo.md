@@ -17,8 +17,10 @@ hide: true
 - Käytä `size_t` oikeissa paikoissa
 - Lippu `-O2` (ja muitakin?) sopivassa kohdassa
 - Luku 1: käsittele esikääntäjää
+- Luku 1: käsittele paremmin muuttujan näkyvyys (päätason ja automaattinen)
 - Luku 1: laskujärjestys ja muut asiat lausekkeissa
 - Luku 1: main-funktion parametrit ja palautusarvo loppuun?
+- Luku 3: taulukon käsittely -> merkkijono -> taulukkoalgoritmit
 - Luku 5: lisää virheenkäsittely tietorakenteisiin
 - Luku 5: `array_list_print` ei toimi järkevästi yleisessä toteutuksessa -> käytä mieluummin `array_list_get` pääfunktiossa?
 - Luku 5: taulukon vahvuudet
@@ -110,6 +112,7 @@ hide: true
 - Termi yhden komplementti?
 - `a[i]` tarkoittaa samaa kuin `i[a]`
 - Ennen structia voisi kertoa jo tiedon kohdistuksesta muistissa ja muistiosoitteista vähän tarkemmin
+- Pinon sijainti muistissa ja tietoturva
 
 ## Luku 3
 
