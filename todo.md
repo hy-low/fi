@@ -33,7 +33,6 @@ hide: true
 - Luku 9: liukuhihnasta yms. jotain?
 - Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
 - Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]`
-- Luku 10: TODO-asiat `idiv`-komennossa
 - Luku 10: vaihtoehdot systeemikutsulle
 - Luku 10: mitä tarkoittaa `-no-pie`
 - Luku 12: johdanto joka kertoo mitä ohjelma tekee
