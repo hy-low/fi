@@ -15,6 +15,7 @@ hide: true
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
 - Käytä `size_t` oikeissa paikoissa
 - Lippu `-O2` (ja muitakin?) sopivassa kohdassa
+- Luku 1: `scanf`-kutsu aiheuttaa varoituksen?
 - Luku 1: käsittele esikääntäjää
 - Luku 1: käsittele paremmin muuttujan näkyvyys (päätason ja automaattinen)
 - Luku 1: laskujärjestys ja muut asiat lausekkeissa
@@ -25,12 +26,13 @@ hide: true
 - Luku 8: testiaineisto
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Luku 8: liukuvan ikkunan minimi
+- Luku 9: kommentointi tässä ja muuallakin
 - Luku 9: ohjelman koodi myös muistissa, rajoitukset muistialueissa
 - Luku 9: liukuhihnasta yms. jotain?
 - Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
 - Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]`
 - Luku 10: vaihtoehdot systeemikutsulle
-- Luku 10: mitä tarkoittaa `-no-pie`
+- Luku 10: mitä tarkoittaa `-no-pie`, RIP-relative addressing, default rel
 - Luku 12: johdanto joka kertoo mitä ohjelma tekee
 - Luku 12: tarkasta assembly-koodit (puuttuvia asioita)
 - Luku 12: kerro tarkemmin tietoturvasta
