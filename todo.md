@@ -29,14 +29,15 @@ hide: true
 - Luku 9: kommentointi tässä ja muuallakin
 - Luku 9: ohjelman koodi myös muistissa, rajoitukset muistialueissa
 - Luku 9: liukuhihnasta yms. jotain?
+- Luku 9: ELF-tiedosto
 - Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
 - Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]`
 - Luku 10: vaihtoehdot systeemikutsulle
 - Luku 10: mitä tarkoittaa `-no-pie`, RIP-relative addressing, default rel
 - Luku 12: johdanto joka kertoo mitä ohjelma tekee
-- Luku 12: vaikea seurata koodin analyysia, mitä tehdä?
-- Luku 12: kerro paremmin `add rax, 1` ja `inc rax` erosta
+- Luku 12: suoritusajat
 - Luku 12: selkeämmin optimoidun koodin lisäoptimointi
+- Luku 12: Compiler Explorer (godbolt)
 
 ## Yleistä
 
@@ -176,7 +177,8 @@ hide: true
 
 ## Luku 12
 
-- Tarkasta käännetyt koodit (puuttuvia arvojen kokoja?)
+- Voisi korvata "and eax, 1 -- test rax, rax" komennolla "test rax, 1"?
+- Käytännön esimerkki IBT:stä sekä miksi IBT ei käytössä?
 - Kanarianlintu kuvitus
-- Compiler Explorer (godbolt)
+- Kerro paremmin `add rax, 1` ja `inc rax` erosta
 - http://ftp.parisc-linux.org/docs/arch/elf-64-hp.pdf
