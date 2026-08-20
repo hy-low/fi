@@ -34,9 +34,6 @@ hide: true
 - Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]`
 - Luku 10: vaihtoehdot systeemikutsulle
 - Luku 10: mitä tarkoittaa `-no-pie`, RIP-relative addressing, default rel
-- Luku 12: johdanto joka kertoo mitä ohjelma tekee
-- Luku 12: suoritusajat
-- Luku 12: selkeämmin optimoidun koodin lisäoptimointi
 - Luku 12: Compiler Explorer (godbolt)
 
 ## Yleistä
