@@ -31,6 +31,7 @@ hide: true
 - Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
 - Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]`
 - Luku 10: vaihtoehdot systeemikutsulle
+- Luku 10: systeemikutsujen seuraaminen
 - Luku 12: Compiler Explorer (godbolt)
 
 ## Yleistä
@@ -39,7 +40,6 @@ hide: true
 - Virtuaalinen muisti vs. fyysinen muisti, tuo esille usein
 - Rakenne `enum`
 - Mitkä parametrit käännöksessä? (`-Wall`, `-Wextra`, `-O2`, `-std=c99`, `-pedantic`)
-- Mikä on `main`-funktion palautusarvo ja miksi on tai ei ole `return 0`
 - Mikä on POSIX?
 - Syntaksi `\` merkeissä ja merkkijonoissa
 - Lukujen kantajärjestelmät paremmin?
@@ -54,7 +54,6 @@ hide: true
 - Samaa tunnusta voidaan käyttää monessa yhteydessä?
 - Turvallisuus ei ollut samassa roolissa ennen
 - Virheenkäsittely ohjelmissa??
-- Muistihierarkiat (rekisterit, välimuistit)
 - `getchar`, `putchar`, `gets`, `puts`
 - `int` oletustyyppi, jäänne `unsigned` = `unsigned int`
 - `int*` tarkoittaa sekä osoite yhteen lukuun että taulukkoon
@@ -63,13 +62,13 @@ hide: true
 - Esittele mielekäs osa tiedostosta `stdio.h`?
 - `return x - y` ei toimi oikein järjestämisessä?
 - Kaikki koodiesimerkkien tulostukset englanniksi?
-- Rakenteiden nimet: `switch`-rakenne vai switch-rakenne?
 - Yhdenmukaisesti arvot: 42 vai `42`
 - Tarkasta kuvien skaalausta (ainakin luvussa 2)
 - Tarkasta että console käytetty kaikissa tulostusesimerkeissä
 - Toteuta merkkijonojen yms. läpikäynti C-tyylisesti
 - Voiko kurssimateriaalin koodimerkinnän värityksiä korjailla?
 - Binääritiedosto, ohjelmatiedosto vai mikä nimi?
+- Komento continue jonnekin?
 
 ## Luku 1
 
@@ -87,7 +86,6 @@ hide: true
 - Muuttujan näkyvyysalue paremmin (paikallinen vs. globaali)
 - Muut C:n aikalaiskielet, historiallinen tausta
 - Muuttujan näkyvyysalue: kuitenkin vasta määrittelyn jälkeen lohkossa
-- Käsittele paremmin for-silmukka
 - Parempi esimerkki goto-komennosta monikerroksisessa silmukassa
 - Kerro kielten eroista arvoparametrien ja viittausparametrien käytössä
 
@@ -114,12 +112,8 @@ hide: true
 
 ## Luku 5
 
-- Parempi hajautustapa kuin lineaarinen kokeilu?
+- Parempi hajautustapa kuin lineaarinen kokeilu, tai ainakin tuo esille ettei hyvä
 - Pythonin toteutuksiin vertaileminen?
-- Paremmin taulukon käyttämisestä
-  - Taulukon indeksöinti vs. `set`-rakenne
-  - Järjestäminen ja binäärihaku vs. hajautus, keko, binäärihakupuu
-- Taulukon enemmistöalkio?
 
 ## Luku 6
 
@@ -134,8 +128,6 @@ hide: true
 
 ## Luku 8
 
-- Ohjelmointikielen vaikutus
-- Kuinka tietää mitä koodi tekee oikeasti
 - Muistiviittausten tasaus
 - Silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Taulukkolista vs. linkitetty lista
@@ -143,17 +135,14 @@ hide: true
 
 ## Luku 9
 
-- Mitä `$0x402000` tarkoittaa? Voiko katsoa myös osion `.data` sisällön?
 - Kommentointi
 - Miksi C:ssä `int` on 32-bittinen vaikka 64-bittistä koodia?
-- Ohjelman muistin eri osien rooli: read-only, suoritettava, jne.
 - Titokone
 - Komennon nopeus, ennen kellosyklit, nykyään?
 - Joka prosessilla on omat muistialueensa/rekisterinsä
 
 ## Luku 10
 
-- RIP-relative addressing
 - Parempi sana tiedosto-osoittimelle
 - Vaihtoehdot systeemikutsuille
 - Punaisen pisteen piirtäminen näytölle ennen
