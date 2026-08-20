@@ -31,7 +31,6 @@ hide: true
 - Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
 - Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]`
 - Luku 10: vaihtoehdot systeemikutsulle
-- Luku 10: mitä tarkoittaa `-no-pie`, RIP-relative addressing, default rel
 - Luku 12: Compiler Explorer (godbolt)
 
 ## Yleistä
