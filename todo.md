@@ -27,9 +27,7 @@ hide: true
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Luku 8: liukuvan ikkunan minimi
 - Luku 9: kommentointi tässä ja muuallakin
-- Luku 9: ohjelman koodi myös muistissa, rajoitukset muistialueissa
 - Luku 9: liukuhihnasta yms. jotain?
-- Luku 9: ELF-tiedosto
 - Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
 - Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]`
 - Luku 10: vaihtoehdot systeemikutsulle
