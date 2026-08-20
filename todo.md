@@ -34,12 +34,9 @@ hide: true
 - Luku 10: vaihtoehdot systeemikutsulle
 - Luku 10: mitä tarkoittaa `-no-pie`, RIP-relative addressing, default rel
 - Luku 12: johdanto joka kertoo mitä ohjelma tekee
-- Luku 12: tarkasta assembly-koodit (puuttuvia asioita)
-- Luku 12: kerro tarkemmin tietoturvasta
 - Luku 12: vaikea seurata koodin analyysia, mitä tehdä?
 - Luku 12: kerro paremmin `add rax, 1` ja `inc rax` erosta
 - Luku 12: selkeämmin optimoidun koodin lisäoptimointi
-- Luku 12: ELF-tiedoston käsittely loppuun
 
 ## Yleistä
 
