@@ -26,8 +26,6 @@ hide: true
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Luku 9: kommentointi tässä ja muuallakin
 - Luku 9: liukuhihnasta yms. jotain?
-- Luku 10: vaihtoehdot systeemikutsulle
-- Luku 10: systeemikutsujen seuraaminen
 - Luku 12: mikä on `.rodata`
 - Luku 12: Compiler Explorer (godbolt)
 
