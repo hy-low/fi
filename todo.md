@@ -139,11 +139,8 @@ hide: true
 ## Luku 10
 
 - Parempi sana tiedosto-osoittimelle
-- Vaihtoehdot systeemikutsuille
-- Punaisen pisteen piirtäminen näytölle ennen
 - Systeemikutsujen yhteys C-standardikirjastoon
 - Kertomassa aliohjelmat ensin, sitten pääohjelma?
-- Systeemikutsujen näyttäminen
 - Bittirotaatiot?
 - struct ja liukuluvut
 - mikä tarkalleen erona `mov rax, number` ja `lea rax, [number]` (32-bittinen vs. 64-bittinen osoite)
