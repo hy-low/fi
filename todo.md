@@ -24,7 +24,6 @@ hide: true
 - Luku 8: muuta/paranna esimerkki `total += items[i]` ja koko osio
 - Luku 8: testiaineisto
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
-- Luku 8: liukuvan ikkunan minimi
 - Luku 9: kommentointi tässä ja muuallakin
 - Luku 9: liukuhihnasta yms. jotain?
 - Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
