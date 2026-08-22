@@ -26,8 +26,6 @@ hide: true
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Luku 9: kommentointi tässä ja muuallakin
 - Luku 9: liukuhihnasta yms. jotain?
-- Luku 10: mainitse termi operandi ja käytä sitä? (jo luvussa 9?)
-- Luku 10: mikä erona `mov rax, number` ja `lea rax, [number]` (32-bittinen vs. 64-bittinen osoite)
 - Luku 10: vaihtoehdot systeemikutsulle
 - Luku 10: systeemikutsujen seuraaminen
 - Luku 12: mikä on `.rodata`
@@ -150,7 +148,7 @@ hide: true
 - Systeemikutsujen näyttäminen
 - Bittirotaatiot?
 - struct ja liukuluvut
-- Näytä myös komento `mov rax, 0` tavutasolla xor-trikissä
+- mikä tarkalleen erona `mov rax, number` ja `lea rax, [number]` (32-bittinen vs. 64-bittinen osoite)
 
 ## Luku 11
 
