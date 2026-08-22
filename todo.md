@@ -24,7 +24,6 @@ hide: true
 - Luku 8: muuta/paranna esimerkki `total += items[i]` ja koko osio
 - Luku 8: testiaineisto
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
-- Luku 9: kommentointi tässä ja muuallakin
 - Luku 9: liukuhihnasta yms. jotain?
 - Luku 12: mikä on `.rodata`
 - Luku 12: Compiler Explorer (godbolt)
@@ -140,7 +139,6 @@ hide: true
 
 - Parempi sana tiedosto-osoittimelle
 - Systeemikutsujen yhteys C-standardikirjastoon
-- Kertomassa aliohjelmat ensin, sitten pääohjelma?
 - Bittirotaatiot?
 - struct ja liukuluvut
 - mikä tarkalleen erona `mov rax, number` ja `lea rax, [number]` (32-bittinen vs. 64-bittinen osoite)
