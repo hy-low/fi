@@ -24,7 +24,6 @@ hide: true
 - Luku 8: muuta/paranna esimerkki `total += items[i]` ja koko osio
 - Luku 8: testiaineisto
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
-- Luku 12: mikä on `.rodata`
 - Luku 12: Compiler Explorer (godbolt)
 
 ## Yleistä
