@@ -21,7 +21,6 @@ hide: true
 - Luku 1: laskujärjestys ja muut asiat lausekkeissa
 - Luku 5: lisää virheenkäsittely tietorakenteisiin
 - Luku 5: `array_list_print` ei toimi järkevästi yleisessä toteutuksessa -> käytä mieluummin `array_list_get` pääfunktiossa?
-- Luku 5: taulukon vahvuudet
 - Luku 8: muuta/paranna esimerkki `total += items[i]` ja koko osio
 - Luku 8: testiaineisto
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
