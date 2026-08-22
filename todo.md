@@ -24,7 +24,6 @@ hide: true
 - Luku 8: muuta/paranna esimerkki `total += items[i]` ja koko osio
 - Luku 8: testiaineisto
 - Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
-- Luku 9: liukuhihnasta yms. jotain?
 - Luku 12: mikä on `.rodata`
 - Luku 12: Compiler Explorer (godbolt)
 
@@ -129,11 +128,11 @@ hide: true
 
 ## Luku 9
 
-- Kommentointi
 - Miksi C:ssä `int` on 32-bittinen vaikka 64-bittistä koodia?
 - Titokone
 - Komennon nopeus, ennen kellosyklit, nykyään?
 - Joka prosessilla on omat muistialueensa/rekisterinsä
+- Historialliset arkkitehtuurit, kuten PDP-11
 
 ## Luku 10
 
