@@ -87,6 +87,7 @@ hide: true
 ## Luku 4
 
 - Avainsanan `auto` uusi käyttö C23-standardissa
+- Miksi pinolle näkyy vain 132 kt muistia varattuna?
 
 ## Luku 5
 
