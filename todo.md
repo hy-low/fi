@@ -18,7 +18,6 @@ hide: true
 - Käytä `size_t` oikeissa paikoissa
 - Lippu `-O2` sopivassa kohdassa
 - Luku 1: käsittele esikääntäjää
-- Luku 1: käsittele paremmin muuttujan näkyvyys (päätason ja automaattinen)
 
 ## Yleistä
 
