@@ -14,16 +14,13 @@ hide: true
 - Mainitse että tavuesitykset ovat materiaalissa yleisesti heksalukuina
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
 - Käytä `size_t` oikeissa paikoissa
-- Lippu `-O2` (ja muitakin?) sopivassa kohdassa
+- Lippu `-O2` sopivassa kohdassa
 - Luku 1: `scanf`-kutsu aiheuttaa varoituksen?
 - Luku 1: käsittele esikääntäjää
 - Luku 1: käsittele paremmin muuttujan näkyvyys (päätason ja automaattinen)
 - Luku 1: laskujärjestys ja muut asiat lausekkeissa
 - Luku 5: lisää virheenkäsittely tietorakenteisiin
 - Luku 5: `array_list_print` ei toimi järkevästi yleisessä toteutuksessa -> käytä mieluummin `array_list_get` pääfunktiossa?
-- Luku 8: muuta/paranna esimerkki `total += items[i]` ja koko osio
-- Luku 8: testiaineisto
-- Luku 8: silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 
 ## Yleistä
 
@@ -60,6 +57,7 @@ hide: true
 - Voiko kurssimateriaalin koodimerkinnän värityksiä korjailla?
 - Binääritiedosto, ohjelmatiedosto vai mikä nimi?
 - Komento continue jonnekin?
+- C-kielen yhteys PDP-11-konekieleen
 
 ## Luku 1
 
@@ -123,6 +121,7 @@ hide: true
 - Silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Taulukkolista vs. linkitetty lista
 - Optimointi on huono sana?
+- Testiaineisto?
 
 ## Luku 9
 
