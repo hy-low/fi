@@ -19,8 +19,6 @@ hide: true
 - Luku 1: käsittele esikääntäjää
 - Luku 1: käsittele paremmin muuttujan näkyvyys (päätason ja automaattinen)
 - Luku 1: laskujärjestys ja muut asiat lausekkeissa
-- Luku 5: lisää virheenkäsittely tietorakenteisiin
-- Luku 5: `array_list_print` ei toimi järkevästi yleisessä toteutuksessa -> käytä mieluummin `array_list_get` pääfunktiossa?
 
 ## Yleistä
 
@@ -101,6 +99,7 @@ hide: true
 
 ## Luku 5
 
+- Virheenkäsittely tietorakenteisiin?
 - Parempi hajautustapa kuin lineaarinen kokeilu, tai ainakin tuo esille ettei hyvä
 - Pythonin toteutuksiin vertaileminen?
 
