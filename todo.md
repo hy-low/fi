@@ -15,7 +15,6 @@ hide: true
 
 ## Yleistä
 
-- Paluuarvo vai palautusarvo?
 - Virtuaalinen muisti vs. fyysinen muisti, tuo esille usein
 - Rakenne `enum`
 - Mitkä parametrit käännöksessä? (`-Wall`, `-Wextra`, `-O2`, `-std=c99`, `-pedantic`)
@@ -56,7 +55,7 @@ hide: true
 - Esimerkkiohjelman rajoitukset? (`long`-tyyppi)
 - Parametri vs. argumentti
 - Funktion `scanf` virhetilanteet
-- Kääntäjä varoittaa jos `scanf`-funktion palautusarvoa ei käsitellä
+- Kääntäjä varoittaa jos `scanf`-funktion paluuarvoa ei käsitellä
 - Paremmin että sama C-ohjelma toimii eri ympäristöissä (toisin kuin konekielessä)
 - Funktion otsikko (header) ja runko (body)?
 - Muut C:n aikalaiskielet, historiallinen tausta
