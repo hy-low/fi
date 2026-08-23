@@ -8,6 +8,8 @@ hide: true
 
 ## Tärkeää tehtävää pian
 
+- Lue https://en.cppreference.com/c/language
+- Lue C-standardeja
 - Kaikkien lukujen johdantotekstit
 - Esimerkkitulosteiden kieli englanniksi
 - Mieti miten esittää pitkän koodin analyysi osissa hyvin
@@ -15,10 +17,8 @@ hide: true
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
 - Käytä `size_t` oikeissa paikoissa
 - Lippu `-O2` sopivassa kohdassa
-- Luku 1: `scanf`-kutsu aiheuttaa varoituksen?
 - Luku 1: käsittele esikääntäjää
 - Luku 1: käsittele paremmin muuttujan näkyvyys (päätason ja automaattinen)
-- Luku 1: laskujärjestys ja muut asiat lausekkeissa
 
 ## Yleistä
 
@@ -66,6 +66,7 @@ hide: true
 - Esimerkkiohjelman rajoitukset? (`long`-tyyppi)
 - Parametri vs. argumentti
 - Funktion `scanf` virhetilanteet
+- Kääntäjä varoittaa jos `scanf`-funktion palautusarvoa ei käsitellä
 - Esikääntäjä ja `#define` jo täällä?
 - Paremmin että sama C-ohjelma toimii eri ympäristöissä (toisin kuin konekielessä)
 - Funktion otsikko (header) ja runko (body)?
@@ -117,7 +118,6 @@ hide: true
 ## Luku 8
 
 - Muistiviittausten tasaus
-- Silmukan purkaminen ja funktion upotus lisäävät koodin määrää
 - Taulukkolista vs. linkitetty lista
 - Optimointi on huono sana?
 - Testiaineisto?
@@ -150,4 +150,3 @@ hide: true
 - Käytännön esimerkki IBT:stä sekä miksi IBT ei käytössä?
 - Kanarianlintu kuvitus
 - Kerro paremmin `add rax, 1` ja `inc rax` erosta
-- http://ftp.parisc-linux.org/docs/arch/elf-64-hp.pdf
