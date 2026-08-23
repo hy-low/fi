@@ -75,6 +75,8 @@ hide: true
 - `a[i]` tarkoittaa samaa kuin `i[a]`
 - Ennen structia voisi kertoa jo tiedon kohdistuksesta muistissa ja muistiosoitteista vähän tarkemmin
 - Pinon sijainti muistissa ja tietoturva
+- Ylivuoto ei ole sallittu etumerkillisillä luvuilla?
+- Osoittimen käyttö ei tehosta pienien structien kopiointia
 
 ## Luku 3
 
