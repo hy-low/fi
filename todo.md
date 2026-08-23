@@ -8,7 +8,6 @@ hide: true
 
 ## Tärkeää tehtävää pian
 
-- Lue https://en.cppreference.com/c/language
 - Lue C-standardeja
 - Kaikkien lukujen johdantotekstit
 - Esimerkkitulosteiden kieli englanniksi
@@ -55,6 +54,7 @@ hide: true
 - Binääritiedosto, ohjelmatiedosto vai mikä nimi?
 - Komento continue jonnekin?
 - C-kielen yhteys PDP-11-konekieleen
+- Inline assemblyn syntaksi
 
 ## Luku 1
 
