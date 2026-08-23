@@ -12,6 +12,7 @@ hide: true
 - Kaikkien lukujen johdantotekstit
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
 - Lippu `-O2` sopivassa kohdassa
+- Älä käytä tyyliä "otsikkotiedosto sisältää toteutuksen"
 
 ## Yleistä
 
@@ -79,6 +80,7 @@ hide: true
 
 - Parametria `const` voi kuitenkin muuttaa?
 - Merkkikoodit unsigned-arvoina UTF-8-esimerkissä?
+- Tarkasta mitä strncpy ja strncat tekee oikeasti
 
 ## Luku 4
 
