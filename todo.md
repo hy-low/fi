@@ -10,10 +10,7 @@ hide: true
 
 - Lue C-standardeja
 - Kaikkien lukujen johdantotekstit
-- Mieti miten esittää pitkän koodin analyysi osissa hyvin
-- Mainitse että tavuesitykset ovat materiaalissa yleisesti heksalukuina
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
-- Käytä `size_t` oikeissa paikoissa
 - Lippu `-O2` sopivassa kohdassa
 
 ## Yleistä
