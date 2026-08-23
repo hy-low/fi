@@ -16,7 +16,6 @@ hide: true
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
 - Käytä `size_t` oikeissa paikoissa
 - Lippu `-O2` sopivassa kohdassa
-- Luku 1: käsittele esikääntäjää
 
 ## Yleistä
 
@@ -41,7 +40,6 @@ hide: true
 - `getchar`, `putchar`, `gets`, `puts`
 - `int` oletustyyppi, jäänne `unsigned` = `unsigned int`
 - `int*` tarkoittaa sekä osoite yhteen lukuun että taulukkoon
-- Mitä `#include` oikeastaan tekee?
 - Avainsana `volatile`?
 - Esittele mielekäs osa tiedostosta `stdio.h`?
 - `return x - y` ei toimi oikein järjestämisessä?
@@ -58,19 +56,13 @@ hide: true
 
 ## Luku 1
 
-- Operaattoreiden presedenssi
-- Lausekkeen osien suoritusjärjestys (and, or)
-- Suoritusjärjestys ei aina selvä
 - Duff's device? tai muuten switch tarkemmin
 - Esimerkkiohjelman rajoitukset? (`long`-tyyppi)
 - Parametri vs. argumentti
 - Funktion `scanf` virhetilanteet
 - Kääntäjä varoittaa jos `scanf`-funktion palautusarvoa ei käsitellä
-- Esikääntäjä ja `#define` jo täällä?
 - Paremmin että sama C-ohjelma toimii eri ympäristöissä (toisin kuin konekielessä)
 - Funktion otsikko (header) ja runko (body)?
-- Myös funktiokutsu on lauseke
-- Muuttujan näkyvyysalue paremmin (paikallinen vs. globaali)
 - Muut C:n aikalaiskielet, historiallinen tausta
 - Muuttujan näkyvyysalue: kuitenkin vasta määrittelyn jälkeen lohkossa
 - Parempi esimerkki goto-komennosta monikerroksisessa silmukassa
@@ -116,7 +108,6 @@ hide: true
 
 ## Luku 8
 
-- Muistiviittausten tasaus
 - Taulukkolista vs. linkitetty lista
 - Optimointi on huono sana?
 - Testiaineisto?
