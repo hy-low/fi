@@ -124,6 +124,7 @@ hide: true
 - Komennon nopeus, ennen kellosyklit, nykyään?
 - Joka prosessilla on omat muistialueensa/rekisterinsä
 - Historialliset arkkitehtuurit, kuten PDP-11
+- Älä käytä `nasm` silloin kun ei ole NASM-koodia?
 
 ## Luku 10
 
