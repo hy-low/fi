@@ -11,6 +11,8 @@ hide: true
 - Lue C-standardeja
 - Kaikkien lukujen johdantotekstit
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
+- Luku 11: C-koodin `int` vastan konekielen 64-bittiset arvot
+- Luku 11: pinon tasaus paremmin
 
 ## Yleistä
 
@@ -47,6 +49,7 @@ hide: true
 - Komento continue jonnekin?
 - C-kielen yhteys PDP-11-konekieleen
 - Inline assemblyn syntaksi
+- Signed overflow ei tee luvuista negatiivisia vaan seuraus on määrittelemätön?
 
 ## Luku 1
 
@@ -142,10 +145,22 @@ hide: true
 
 - Esimerkki joka lukee tietoa tiedostosta?
 - Kolmas esimerkki funktion toteuttamisesta?
+- `calc_sum` ja `calc_value`: C-koodissa `int` mutta konekielessä 64-bittiset arvot
+- Tarkemmin pinon tasaaminen (jokin luvun 16 moninkerta ei tarkkaa)
+- "Aliohjelman alkaessa pinossa on vain paluuosoite" ei ole tarkkaa
+- Rekursiivinen `fibo` ei tasaa pinoa
+- `fibo` myös ero `int` vs. 64-bittiset arvot
+- C-koodista kutsutussa `calc_sum` myös vastaava ongelma
 
 ## Luku 12
 
-- Voisi korvata "and eax, 1 -- test rax, rax" komennolla "test rax, 1"?
+- Voisi korvata `and eax, 1 -- test rax, rax` komennolla `test rax, 1` tai vain `and eax, 1`?
 - Käytännön esimerkki IBT:stä sekä miksi IBT ei käytössä?
 - Kanarianlintu kuvitus
 - Kerro paremmin `add rax, 1` ja `inc rax` erosta
+- Assembly-koodi käsin muokattua eikä yhtenäistä
+- Kanarialintu tulee `scanf`-funktion takia?
+- Kanarialintu suojaa vain tilannetta jossa puskuriylivuoto menee tarpeeksi pitkälle
+- `endbr64` liittyy yleisemmin ehdolliseen haarautumiseen, ei vain aliohjelmiin
+- Mikä on `__printf_chk`
+- Kääntäjän toiminta riippuvainen ympäristöstä/asetuksista
