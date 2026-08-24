@@ -64,7 +64,6 @@ hide: true
 
 ## Luku 2
 
-- Tyyppi `long long` mukaan vai ei?
 - Miksi kahden komplementtia käytetään?
 - offsetof makro?
 - Bittikentät (bit fields)
