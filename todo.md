@@ -61,6 +61,8 @@ hide: true
 - Muuttujan näkyvyysalue: kuitenkin vasta määrittelyn jälkeen lohkossa
 - Parempi esimerkki goto-komennosta monikerroksisessa silmukassa
 - Kerro kielten eroista arvoparametrien ja viittausparametrien käytössä
+- Muuttujan määrittely ei ole lause?
+- goto kuuluu samaan ryhmään kuin break, continue, return?
 
 ## Luku 2
 
