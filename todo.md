@@ -11,7 +11,6 @@ hide: true
 - Lue C-standardeja
 - Kaikkien lukujen johdantotekstit
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
-- Mieti parempi tapa miten viitata otsikkotiedostoihin
 
 ## Yleistä
 
