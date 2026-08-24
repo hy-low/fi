@@ -114,6 +114,8 @@ hide: true
 - Taulukkolista vs. linkitetty lista
 - Optimointi on huono sana?
 - Testiaineisto?
+- `-Os` muistuttaa `-O2` mutta osa optimoinneista puuttuu
+- Tässäkin deque-bugi
 
 ## Luku 9
 
