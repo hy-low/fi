@@ -11,7 +11,6 @@ hide: true
 - Lue C-standardeja
 - Kaikkien lukujen johdantotekstit
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
-- Lippu `-O2` sopivassa kohdassa
 - Älä käytä tyyliä "otsikkotiedosto sisältää toteutuksen"
 
 ## Yleistä
