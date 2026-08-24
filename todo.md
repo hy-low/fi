@@ -107,6 +107,7 @@ hide: true
 
 - Esittele `#pragma once`?
 - Otsikkotiedosto kätevä myös koska esittelee funktiot
+- Näkyvyys tiedostoissa vs. sisäinen ja ulkoinen linkitys
 
 ## Luku 8
 
