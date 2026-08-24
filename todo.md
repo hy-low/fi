@@ -93,6 +93,9 @@ hide: true
 - Virheenkäsittely tietorakenteisiin?
 - Parempi hajautustapa kuin lineaarinen kokeilu, tai ainakin tuo esille ettei hyvä
 - Pythonin toteutuksiin vertaileminen?
+- Tarkemmin linkitetyn listan tehokkuudesta: lisäys/poisto nopea vain jos kohta on tiedossa
+- `strdup` ei ole standardikirjaston funktio?
+- Bugi `if (i - deque[left] == m) left++`
 
 ## Luku 6
 
