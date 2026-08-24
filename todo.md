@@ -11,7 +11,7 @@ hide: true
 - Lue C-standardeja
 - Kaikkien lukujen johdantotekstit
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
-- Älä käytä tyyliä "otsikkotiedosto sisältää toteutuksen"
+- Mieti parempi tapa miten viitata otsikkotiedostoihin
 
 ## Yleistä
 
