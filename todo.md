@@ -9,8 +9,13 @@ hide: true
 ## Tärkeää tehtävää pian
 
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
-- Luku 11: C-koodin `int` vastan konekielen 64-bittiset arvot
+- Luku 11: C-koodin `int` vastaan konekielen 64-bittiset arvot
 - Luku 11: pinon tasaus paremmin
+- Signed overflow on undefined
+- 2:n komplementti ei välttämättä käytössä
+- miksi `int` ei 64-bittinen?
+- GCC ja gcc
+- muuttujan määrittely ei ole lause?
 
 ## Yleistä
 
