@@ -45,6 +45,7 @@ hide: true
 - Komento continue jonnekin?
 - C-kielen yhteys PDP-11-konekieleen
 - Inline assemblyn syntaksi
+- Pino kasvaa alaspäin eikä oikealta vasemmalle
 
 ## Luku 1
 
