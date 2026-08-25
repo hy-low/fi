@@ -8,8 +8,6 @@ hide: true
 
 ## Tärkeää tehtävää pian
 
-- Lue C-standardeja
-- Kaikkien lukujen johdantotekstit
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
 - Luku 11: C-koodin `int` vastan konekielen 64-bittiset arvot
 - Luku 11: pinon tasaus paremmin
