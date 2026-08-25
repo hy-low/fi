@@ -9,7 +9,6 @@ hide: true
 ## Tärkeää tehtävää pian
 
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
-- miksi `int` ei 64-bittinen?
 
 ## Yleistä
 
@@ -46,7 +45,6 @@ hide: true
 - Komento continue jonnekin?
 - C-kielen yhteys PDP-11-konekieleen
 - Inline assemblyn syntaksi
-- Signed overflow ei tee luvuista negatiivisia vaan seuraus on määrittelemätön?
 
 ## Luku 1
 
@@ -61,26 +59,21 @@ hide: true
 - Muuttujan näkyvyysalue: kuitenkin vasta määrittelyn jälkeen lohkossa
 - Parempi esimerkki goto-komennosta monikerroksisessa silmukassa
 - Kerro kielten eroista arvoparametrien ja viittausparametrien käytössä
-- Muuttujan määrittely ei ole lause?
 - goto kuuluu samaan ryhmään kuin break, continue, return?
 
 ## Luku 2
 
-- Miksi kahden komplementtia käytetään?
 - offsetof makro?
 - Bittikentät (bit fields)
 - Mikä on `NULL`-osoitin?
-- Termi yhden komplementti?
 - `a[i]` tarkoittaa samaa kuin `i[a]`
 - Ennen structia voisi kertoa jo tiedon kohdistuksesta muistissa ja muistiosoitteista vähän tarkemmin
 - Pinon sijainti muistissa ja tietoturva
-- Ylivuoto ei ole sallittu etumerkillisillä luvuilla?
 - Osoittimen käyttö ei tehosta pienien structien kopiointia
 
 ## Luku 3
 
 - Parametria `const` voi kuitenkin muuttaa?
-- Merkkikoodit unsigned-arvoina UTF-8-esimerkissä?
 - Tarkasta mitä strncpy ja strncat tekee oikeasti
 
 ## Luku 4
@@ -142,12 +135,8 @@ hide: true
 
 - Esimerkki joka lukee tietoa tiedostosta?
 - Kolmas esimerkki funktion toteuttamisesta?
-- `calc_sum` ja `calc_value`: C-koodissa `int` mutta konekielessä 64-bittiset arvot
-- Tarkemmin pinon tasaaminen (jokin luvun 16 moninkerta ei tarkkaa)
-- "Aliohjelman alkaessa pinossa on vain paluuosoite" ei ole tarkkaa
 - Rekursiivinen `fibo` ei tasaa pinoa
 - `fibo` myös ero `int` vs. 64-bittiset arvot
-- C-koodista kutsutussa `calc_sum` myös vastaava ongelma
 
 ## Luku 12
 
