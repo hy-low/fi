@@ -9,7 +9,6 @@ hide: true
 ## Tärkeää tehtävää pian
 
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
-- Luku 11: C-koodin `int` vastaan konekielen 64-bittiset arvot
 - miksi `int` ei 64-bittinen?
 - GCC ja gcc
 - muuttujan määrittely ei ole lause?
