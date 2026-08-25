@@ -10,7 +10,6 @@ hide: true
 
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
 - miksi `int` ei 64-bittinen?
-- GCC ja gcc
 
 ## Yleistä
 
