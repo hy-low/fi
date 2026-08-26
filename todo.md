@@ -26,12 +26,12 @@ hide: true
   - C: AVL-puu (5 pistettä)
 - Osa 5: Tiedoston käsittely
   - A: BMP-tiedosto (2 pistettä)
-  - B: GIF-tiedosto (3 pistettä)
+  - B: GIF-tiedosto (3 pistettä) 87a vai 89a?
   - C: PNG-tiedosto (5 pistettä) ???
 - Osa 6: Konekielen suorittaja
   - A: ???
-  - B: TTK-91-konekielen suorittaja
-  - C: NES-konekielen (6502) suorittaja
+  - B: TTK-91-konekielen suorittaja (3 pistettä)
+  - C: NES-konekielen (6502) suorittaja (5 pistettä)
 - Osa 7: Konekielen perusteet
   - Yksi tehtäväsetti (10 pistettä)
 - Osa 8: Konekieliprojekti
