@@ -9,6 +9,8 @@ hide: true
 ## Tärkeää tehtävää pian
 
 - Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
+- Luku 1: ohjausrakenteet paremmin
+- Tavalliset int/long mallit eri ympäristöissä
 
 ## Yleistä
 
