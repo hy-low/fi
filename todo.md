@@ -8,7 +8,6 @@ hide: true
 
 ## Tärkeää tehtävää pian
 
-- Pystyykö korjaamaan ongelmat koodin/konsolin värityksessä?
 - Luku 1: ohjausrakenteet paremmin
 - Tavalliset int/long mallit eri ympäristöissä
 
@@ -67,9 +66,7 @@ hide: true
 - Kaikki koodiesimerkkien tulostukset englanniksi?
 - Yhdenmukaisesti arvot: 42 vai `42`
 - Tarkasta kuvien skaalausta (ainakin luvussa 2)
-- Tarkasta että console käytetty kaikissa tulostusesimerkeissä
 - Toteuta merkkijonojen yms. läpikäynti C-tyylisesti
-- Voiko kurssimateriaalin koodimerkinnän värityksiä korjailla?
 - Binääritiedosto, ohjelmatiedosto vai mikä nimi?
 - Komento continue jonnekin?
 - C-kielen yhteys PDP-11-konekieleen
