@@ -12,6 +12,33 @@ hide: true
 - Luku 1: ohjausrakenteet paremmin
 - Tavalliset int/long mallit eri ympäristöissä
 
+## Tehtävien aiheita
+
+- Osa 1: C-kielen perusteet
+  - Yksi tehtäväsetti (10 pistettä)
+- Osa 2: Bittioperaatiot
+  - Yksi tehtäväsetti (10 pistettä)
+- Osa 3: Taulukot ja merkkijonot
+  - Yksi tehtäväsetti (10 pistettä)
+- Osa 4: Tietorakenteen toteutus
+  - A: Pino (2 pistettä)
+  - B: Keko (3 pistettä)
+  - C: AVL-puu (5 pistettä)
+- Osa 5: Tiedoston käsittely
+  - A: BMP-tiedosto (2 pistettä)
+  - B: GIF-tiedosto (3 pistettä)
+  - C: PNG-tiedosto (5 pistettä) ???
+- Osa 6: Konekielen suorittaja
+  - A: ???
+  - B: TTK-91-konekielen suorittaja
+  - C: NES-konekielen (6502) suorittaja
+- Osa 7: Konekielen perusteet
+  - Yksi tehtäväsetti (10 pistettä)
+- Osa 8: Konekieliprojekti
+  - A: Pinolaskin (2 pistettä)
+  - B: Laskulausekkeen laskija (3 pistettä)
+  - C: BASIC-tulkki (5 pistettä) ???
+
 ## Yleistä
 
 - Virtuaalinen muisti vs. fyysinen muisti, tuo esille usein
