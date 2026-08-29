@@ -10,6 +10,7 @@ hide: true
 
 - Luku 1: ohjausrakenteet paremmin
 - Tavalliset int/long mallit eri ympäristöissä
+- Eniten/vähiten merkitsevä bitti
 
 ## Tehtävien aiheita
 
