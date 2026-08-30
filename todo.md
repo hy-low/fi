@@ -10,7 +10,6 @@ hide: true
 
 - Luku 1: ohjausrakenteet paremmin
 - Tavalliset int/long mallit eri ympäristöissä
-- Luku 2: eniten/vähiten merkitsevä bitti
 
 ## Tehtävien aiheita
 
@@ -102,6 +101,7 @@ hide: true
 - Ennen structia voisi kertoa jo tiedon kohdistuksesta muistissa ja muistiosoitteista vähän tarkemmin
 - Pinon sijainti muistissa ja tietoturva
 - Osoittimen käyttö ei tehosta pienien structien kopiointia
+- Paremmin big/little endian
 
 ## Luku 3
 
