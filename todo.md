@@ -8,7 +8,6 @@ hide: true
 
 ## Tärkeää tehtävää pian
 
-- Luku 1: ohjausrakenteet paremmin
 - Tavalliset int/long mallit eri ympäristöissä
 
 ## Tehtävien aiheita
