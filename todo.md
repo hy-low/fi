@@ -10,7 +10,8 @@ hide: true
 
 - Luku 1: ohjausrakenteet paremmin
 - Tavalliset int/long mallit eri ympäristöissä
-- Eniten/vähiten merkitsevä bitti
+- Luku 2: eniten/vähiten merkitsevä bitti
+- Luku 2: struct osoittimena ei välttämättä tehosta
 
 ## Tehtävien aiheita
 
@@ -28,13 +29,17 @@ hide: true
   - A: BMP-tiedosto (2 pistettä)
   - B: GIF-tiedosto (3 pistettä) 87a vai 89a?
   - C: PNG-tiedosto (5 pistettä) ???
-- Osa 6: Konekielen suorittaja
+- Osa 6: Koodin optimointi
+  - ???
+- Osa 7: Konekielen suorittaja
   - A: ???
   - B: TTK-91-konekielen suorittaja (3 pistettä)
   - C: NES-konekielen (6502) suorittaja (5 pistettä)
-- Osa 7: Konekielen perusteet
+- Osa 8: Konekielen perusteet
   - Yksi tehtäväsetti (10 pistettä)
-- Osa 8: Konekieliprojekti
+- Osa 9: C-käännöksen analyysi
+  - ???
+- Osa 10: Konekieliprojekti
   - A: Pinolaskin (2 pistettä)
   - B: Laskulausekkeen laskija (3 pistettä)
   - C: BASIC-tulkki (5 pistettä) ???
