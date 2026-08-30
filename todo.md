@@ -11,7 +11,6 @@ hide: true
 - Luku 1: ohjausrakenteet paremmin
 - Tavalliset int/long mallit eri ympäristöissä
 - Luku 2: eniten/vähiten merkitsevä bitti
-- Luku 2: struct osoittimena ei välttämättä tehosta
 
 ## Tehtävien aiheita
 
