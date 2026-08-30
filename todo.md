@@ -108,6 +108,7 @@ hide: true
 
 - Parametria `const` voi kuitenkin muuttaa?
 - Tarkasta mitä strncpy ja strncat tekee oikeasti
+- Miksi ei toimi `char **array = {"apina", "banaani", "cembalo"}`
 
 ## Luku 4
 
