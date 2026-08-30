@@ -21,3 +21,9 @@ Voit vaikuttaa kurssin materiaalin kehitykseen seuraavasti:
 
 - Voit lähettää palautetta myös suoraan materiaalin tekijälle esimerkiksi [sähköpostitse](mailto:ahslaaks@cs.helsinki.fi) tai Discordissa.
 </div>
+
+## Lisämateriaalia
+
+- Hyvä verkossa oleva tietolähde C-kieleen liittyen on [cppreference.com](https://cppreference.com/c), joka nimestään huolimatta käsittelee myös C-kieltä.
+
+- C-standardit ovat myös kiinnostavaa luettavaa. Esimerkiksi [C99-standardin](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf) luonnos on saatavilla verkossa.
