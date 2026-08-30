@@ -5,46 +5,29 @@ permalink: /tehtavat/
 
 # Tehtävät
 
-Tämän sivun kautta löydät kurssin tehtävät. Tehtävät muodostuvat 8 paketista, joista jokaisesta voi saada 0–10 pistettä. Tehtävistä voi saada yhteensä 0–80 pistettä.
+Kurssin tehtävät ovat saatavilla GitHubissa kurssin [tehtävärepositoriossa](https://github.com/hy-low/tasks). Syksyn 2026 toteutuksen kaikkien tehtävien deadline on 31.12.2026.
 
-Tehtävät vaikuttavat kurssin arvosanaan seuraavasti:
+## Tehtäväpaketit
 
-- Arvosana 1 vaatii vähintään 40 pistettä
-- Arvosana 2 vaatii vähintään 48 pistettä
-- Arvosana 3 vaatii vähintään 56 pistettä
-- Arvosana 4 vaatii vähintään 64 pistettä
-- Arvosana 5 vaatii vähintään 72 pistettä
+<div class="note" markdown="1">
+Kurssin alkaessa saatavilla on kolme ensimmäistä tehtäväpakettia. Tehtäviä julkaistaan syksyn aikana sitä mukaa, kuin ne valmistuvat.
+</div>
 
-TODO: tekoälyn käyttö?
+Paketti | Aihe | Materiaalin luvut
+--- | ---
+1 | C-kielen perusteet | 1--3
+2 | Bittioperaatiot | 2
+3 | Taulukot ja merkkijonot | 3--4
+4 | Tietorakenteet | 5
+5 | Tiedoston käsittely | 6
+6 | Koodin optimointi | 8
+7 | C-projekti | 1--8
+8 | Konekielen perusteet | 9--11
+9 | Käännöksen analyysi | 12
+10 | Konekieliprojekti | 9--12
 
-## 1: C-kielen perusteet (10 p)
+## Tekoälyn käyttö
 
-TODO
+Voit käyttää kurssilla tekoälytyökaluja haluamallasi tavalla oppimisen tukena. Esimerkiksi voit pyytää tekoälyä selittämään kurssin aiheita, analysoimaan koodia tai antamaan lisätietoa johonkin asiaan liittyen.
 
-## 2: Bittioperaatiot (10 p)
-
-TODO
-
-## 3: Taulukot ja merkkijonot (10 p)
-
-TODO
-
-## 4: Tietorakenteet (10 p)
-
-TODO
-
-## 5: Tiedoston käsittely (10 p)
-
-TODO
-
-## 6: C-projekti (10 p)
-
-TODO
-
-## 7: Konekielen perusteet (10 p)
-
-TODO
-
-## 8: Konekieliprojekti (10 p)
-
-TODO
+Tekoälyä ei ole suositeltavaa käyttää kurssin tehtävissä koodin generoimiseen. Tekoäly osaa ratkaista luultavasti kaikki kurssin tehtävät suoraan, mutta kurssin tavoitteena on, että myös sinä opit matalan tason ohjelmointia.

@@ -1,9 +1,9 @@
 title: Matalan tason ohjelmointi
-subtitle: 2026–2027
+subtitle: Beta
 lang: fi
 baseurl: "/fi"
 url: "https://hy-low.github.io"
-theme-color: '#e76c97'
+theme-color: '#777777'
 
 plugins:
   - jekyll-remote-theme
