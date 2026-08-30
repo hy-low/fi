@@ -12,7 +12,7 @@ Kurssin ensimmäinen toteutus järjestetään syksyllä 2026. Tehtävien ja tent
 Kurssi on tällä hetkellä suoritettavissa vain Helsingin yliopiston tutkinto-opiskelijoille. Kurssi tulee mahdollisesti myöhemmin Avoimen yliopiston tarjontaan.
 
 <div class="note" markdown="1">
-Syksyn 2026 kurssi on beta-versio, joka kehittyy syksyn aikana. Palaute ja kehitysehdotukset kurssiin liittyen ovat tervetulleita.
+Syksyn 2026 kurssi on beta-versio, joka kehittyy syksyn aikana. Voit keskustella kurssin asioista myös kurssin kanavalla [Discordissa](https://study.cs.helsinki.fi/discord/join/low). Palaute ja kehitysehdotukset kurssiin liittyen ovat tervetulleita.
 </div>
 
 ## Tehtävät
