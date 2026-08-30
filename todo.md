@@ -8,8 +8,6 @@ hide: true
 
 ## Tärkeää tehtävää pian
 
-- Tavalliset int/long mallit eri ympäristöissä
-
 ## Tehtävien aiheita
 
 - Osa 1: C-kielen perusteet
