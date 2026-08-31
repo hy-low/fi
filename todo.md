@@ -73,6 +73,7 @@ hide: true
 - C-kielen yhteys PDP-11-konekieleen
 - Inline assemblyn syntaksi
 - Pino kasvaa alaspäin eikä oikealta vasemmalle
+- Prosessori huono sana, miksei suoritin?
 
 ## Luku 1
 
@@ -139,6 +140,7 @@ hide: true
 - Testiaineisto?
 - `-Os` muistuttaa `-O2` mutta osa optimoinneista puuttuu
 - Tässäkin deque-bugi
+- Inlinen muut hyödyt kuin funktiokutsun tehostaminen
 
 ## Luku 9
 
