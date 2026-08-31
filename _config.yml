@@ -3,7 +3,7 @@ subtitle: Beta
 lang: fi
 baseurl: "/fi"
 url: "https://hy-low.github.io"
-theme-color: '#777777'
+theme-color: '#62c535'
 
 plugins:
   - jekyll-remote-theme
