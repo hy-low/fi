@@ -33,4 +33,4 @@ Kurssisuorituksen osana on tentti, joka järjestetään Examinariumissa. Tenttii
 
 ## Yhteystiedot
 
-Kurssin vastuuhenkilö on Antti Laaksonen. Voit ottaa yhteyttä [sähköpostitse](mailto:ahslaaks@cs.helsinki.fi).
+Kurssin vastuuhenkilö on Antti Laaksonen. Voit ottaa yhteyttä [sähköpostitse](mailto:ahslaaks@cs.helsinki.fi) tai Discordissa.

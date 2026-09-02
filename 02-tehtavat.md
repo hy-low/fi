@@ -10,15 +10,15 @@ Kurssin tehtävät ovat saatavilla GitHubissa kurssin [tehtävärepositoriossa](
 ## Tehtäväpaketit
 
 <div class="note" markdown="1">
-Kurssin alkaessa saatavilla on kolme ensimmäistä tehtäväpakettia. Tehtäviä julkaistaan syksyn aikana sitä mukaa, kuin ne valmistuvat.
+Tällä hetkellä saatavilla on neljä ensimmäistä tehtäväpakettia. Tehtäviä julkaistaan syksyn aikana sitä mukaa, kuin ne valmistuvat.
 </div>
 
 Paketti | Aihe | Materiaalin luvut
 --- | ---
-1 | C-kielen perusteet | 1--3
-2 | Bittioperaatiot | 2
-3 | Taulukot ja merkkijonot | 3--4
-4 | Tietorakenteet | 5
+1 | C-kielen perusteet (10 pistettä) | 1--3
+2 | Bittioperaatiot (10 pistettä) | 2
+3 | Taulukot ja merkkijonot (10 pistettä) | 3--4
+4 | Tietorakenteet (2 + 3 + 5 pistettä) | 5
 5 | Tiedoston käsittely | 6
 6 | Koodin optimointi | 8
 7 | C-projekti | 1--8
