@@ -8,6 +8,8 @@ hide: true
 
 ## Tärkeää tehtävää pian
 
+- Luku 6: materiaaliin `fseek` ja `ftell`
+
 ## Tehtävien aiheita
 
 - Osa 1: C-kielen perusteet
@@ -19,11 +21,11 @@ hide: true
 - Osa 4: Tietorakenteen toteutus
   - A: Pino (2 pistettä)
   - B: Keko (3 pistettä)
-  - C: AVL-puu (5 pistettä)
+  - C: Binäärihakupuu (5 pistettä)
 - Osa 5: Tiedoston käsittely
-  - A: BMP-tiedosto (2 pistettä)
-  - B: GIF-tiedosto (3 pistettä) 87a vai 89a?
-  - C: PNG-tiedosto (5 pistettä) ???
+  - A: CSV-tiedosto (2 pistettä)
+  - B: ZIP-tiedosto (3 pistettä)
+  - C: GIF-tiedosto (5 pistettä)
 - Osa 6: Koodin optimointi
   - ???
 - Osa 7: Konekielen suorittaja
@@ -74,6 +76,7 @@ hide: true
 - Inline assemblyn syntaksi
 - Pino kasvaa alaspäin eikä oikealta vasemmalle
 - Prosessori huono sana, miksei suoritin?
+- `assert` jossain materiaalissa?
 
 ## Luku 1
 
@@ -111,6 +114,8 @@ hide: true
 
 - Avainsanan `auto` uusi käyttö C23-standardissa
 - Miksi pinolle näkyy vain 132 kt muistia varattuna?
+- Kannattaako käyttää AddressSanitizer vai Valgrind?
+- Mainitse lyhenne "asan"
 
 ## Luku 5
 
