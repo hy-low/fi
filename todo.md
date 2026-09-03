@@ -77,6 +77,7 @@ hide: true
 - Pino kasvaa alaspäin eikä oikealta vasemmalle
 - Prosessori huono sana, miksei suoritin?
 - `assert` jossain materiaalissa?
+- Kerro selkeästi eri tyypeistä vastaava muotoilu (`int` -> `%d`, `long` -> `%ld`)
 
 ## Luku 1
 
