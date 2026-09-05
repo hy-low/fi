@@ -8,8 +8,6 @@ hide: true
 
 ## Tärkeää tehtävää pian
 
-- Luku 6: materiaaliin `fseek` ja `ftell`
-
 ## Tehtävien aiheita
 
 - Osa 1: C-kielen perusteet
