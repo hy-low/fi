@@ -23,9 +23,9 @@ hide: true
   - B: Keko (3 pistettä)
   - C: Binäärihakupuu (5 pistettä)
 - Osa 5: Tiedoston käsittely
-  - A: CSV-tiedosto (2 pistettä)
-  - B: ZIP-tiedosto (3 pistettä)
-  - C: GIF-tiedosto (5 pistettä)
+  - A: CSV-tiedosto, osa 1 (2 pistettä)
+  - B: CSV-tiedosto, osa 2 (3 pistettä)
+  - C: ZIP-tiedosto (5 pistettä)
 - Osa 6: Koodin optimointi
   - ???
 - Osa 7: Konekielen suorittaja
@@ -138,6 +138,7 @@ hide: true
 - Esittele `#pragma once`?
 - Otsikkotiedosto kätevä myös koska esittelee funktiot
 - Näkyvyys tiedostoissa vs. sisäinen ja ulkoinen linkitys
+- Structien binääriyhteensopivuus
 
 ## Luku 8
 
