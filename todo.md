@@ -167,6 +167,10 @@ hide: true
 - `read_number`: rekisterin `rdx` käyttö epämääräistä
 - `syscall` tuhoaa `rcx` ja `r11`?
 - `read_number` voisi käyttää palautettua tavumäärää
+- `movzx`, `movsx(d)`, `cbw`, `cwd`, `cwde`, `cdq`, `cdqe`, `cqo`
+- `imul` muut syntaksit
+- Ehdollisen hypyn pituuden raja
+- Komento `loop`?
 
 ## Luku 11
 
