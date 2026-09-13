@@ -171,9 +171,9 @@ hide: true
 ## Luku 11
 
 - Esimerkki joka lukee tietoa tiedostosta?
-- Kolmas esimerkki funktion toteuttamisesta?
 - Rekursiivinen `fibo` ei tasaa pinoa
 - `fibo` myös ero `int` vs. 64-bittiset arvot
+- 32-bittiset vs. 64-bittiset arvot signed-arvoilla
 
 ## Luku 12
 
