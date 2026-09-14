@@ -27,17 +27,13 @@ hide: true
 - Osa 6: Koodin optimointi
   - ???
 - Osa 7: Konekielen suorittaja
-  - A: ???
-  - B: TTK-91-konekielen suorittaja (3 pistettä)
-  - C: NES-konekielen (6502) suorittaja (5 pistettä)
+  - NES-konekielen (6502) suorittaja (10 pistettä)
 - Osa 8: Konekielen perusteet
   - Yksi tehtäväsetti (10 pistettä)
 - Osa 9: C-käännöksen analyysi
   - ???
 - Osa 10: Konekieliprojekti
-  - A: Pinolaskin (2 pistettä)
-  - B: Laskulausekkeen laskija (3 pistettä)
-  - C: BASIC-tulkki (5 pistettä) ???
+  - Laskulausekkeen laskija (10 pistettä)
 
 ## Yleistä
 
@@ -170,7 +166,6 @@ hide: true
 - `movzx`, `movsx(d)`, `cbw`, `cwd`, `cwde`, `cdq`, `cdqe`, `cqo`
 - `imul` muut syntaksit
 - Ehdollisen hypyn pituuden raja
-- Komento `loop`?
 
 ## Luku 11
 
