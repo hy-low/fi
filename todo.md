@@ -164,7 +164,8 @@ hide: true
 - `syscall` tuhoaa `rcx` ja `r11`?
 - `read_number` voisi käyttää palautettua tavumäärää
 - Ehdollisen hypyn pituuden raja
-- Komento `neq`
+- Komento `neg`
+- Rekisterien historiallista taustaa
 
 ## Luku 11
 
