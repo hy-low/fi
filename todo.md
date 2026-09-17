@@ -151,6 +151,7 @@ hide: true
 - Joka prosessilla on omat muistialueensa/rekisterinsä
 - Historialliset arkkitehtuurit, kuten PDP-11
 - Älä käytä `nasm` silloin kun ei ole NASM-koodia?
+- Tuo esille paremmin, että assemblyssa on synonyymeja komennoille
 
 ## Luku 10
 
