@@ -156,7 +156,6 @@ hide: true
 
 - Parempi sana tiedosto-osoittimelle
 - Systeemikutsujen yhteys C-standardikirjastoon
-- Bittirotaatiot?
 - struct ja liukuluvut
 - mikä tarkalleen erona `mov rax, number` ja `lea rax, [number]` (32-bittinen vs. 64-bittinen osoite)
 - tarkemmin osoitteiden käsittelystä (hyppykomennot, lea ja rel)
@@ -164,7 +163,6 @@ hide: true
 - `syscall` tuhoaa `rcx` ja `r11`?
 - `read_number` voisi käyttää palautettua tavumäärää
 - Ehdollisen hypyn pituuden raja
-- Komento `neg`
 - Rekisterien historiallista taustaa
 
 ## Luku 11
