@@ -157,7 +157,6 @@ hide: true
 - Parempi sana tiedosto-osoittimelle
 - Systeemikutsujen yhteys C-standardikirjastoon
 - struct ja liukuluvut
-- mikä tarkalleen erona `mov rax, number` ja `lea rax, [number]` (32-bittinen vs. 64-bittinen osoite)
 - tarkemmin osoitteiden käsittelystä (hyppykomennot, lea ja rel)
 - `read_number`: rekisterin `rdx` käyttö epämääräistä
 - `syscall` tuhoaa `rcx` ja `r11`?
