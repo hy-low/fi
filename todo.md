@@ -163,6 +163,7 @@ hide: true
 - Ehdollisen hypyn pituuden raja
 - Rekisterien historiallista taustaa
 - Paikalliset nimiöt
+- cmov-komennot
 
 ## Luku 11
 
