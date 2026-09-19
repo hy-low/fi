@@ -163,7 +163,8 @@ hide: true
 - Ehdollisen hypyn pituuden raja
 - Rekisterien historiallista taustaa
 - Paikalliset nimiöt
-- cmov-komennot
+- cmov-komennot, set-komennot
+- Lisää komentoja: xchg, js/jns, jo/jno, popcnt
 
 ## Luku 11
 
