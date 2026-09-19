@@ -65,7 +65,6 @@ hide: true
 - Tarkasta kuvien skaalausta (ainakin luvussa 2)
 - Toteuta merkkijonojen yms. läpikäynti C-tyylisesti
 - Binääritiedosto, ohjelmatiedosto vai mikä nimi?
-- Komento continue jonnekin?
 - C-kielen yhteys PDP-11-konekieleen
 - Inline assemblyn syntaksi
 - Pino kasvaa alaspäin eikä oikealta vasemmalle
@@ -86,7 +85,6 @@ hide: true
 - Muuttujan näkyvyysalue: kuitenkin vasta määrittelyn jälkeen lohkossa
 - Parempi esimerkki goto-komennosta monikerroksisessa silmukassa
 - Kerro kielten eroista arvoparametrien ja viittausparametrien käytössä
-- goto kuuluu samaan ryhmään kuin break, continue, return?
 
 ## Luku 2
 
@@ -164,10 +162,10 @@ hide: true
 - `read_number` voisi käyttää palautettua tavumäärää
 - Ehdollisen hypyn pituuden raja
 - Rekisterien historiallista taustaa
+- Paikalliset nimiöt
 
 ## Luku 11
 
-- Esimerkki joka lukee tietoa tiedostosta?
 - Rekursiivinen `fibo` ei tasaa pinoa
 - `fibo` myös ero `int` vs. 64-bittiset arvot
 - 32-bittiset vs. 64-bittiset arvot signed-arvoilla
