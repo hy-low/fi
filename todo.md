@@ -6,35 +6,6 @@ hide: true
 
 # TODO
 
-## Tärkeää tehtävää pian
-
-## Tehtävien aiheita
-
-- Osa 1: C-kielen perusteet
-  - Yksi tehtäväsetti (10 pistettä)
-- Osa 2: Bittioperaatiot
-  - Yksi tehtäväsetti (10 pistettä)
-- Osa 3: Taulukot ja merkkijonot
-  - Yksi tehtäväsetti (10 pistettä)
-- Osa 4: Tietorakenteen toteutus
-  - A: Pino (2 pistettä)
-  - B: Keko (3 pistettä)
-  - C: Binäärihakupuu (5 pistettä)
-- Osa 5: Tiedoston käsittely
-  - A: CSV-tiedosto, osa 1 (2 pistettä)
-  - B: CSV-tiedosto, osa 2 (3 pistettä)
-  - C: ZIP-tiedosto (5 pistettä)
-- Osa 6: Koodin optimointi
-  - ???
-- Osa 7: Konekielen suorittaja
-  - NES-konekielen (6502) suorittaja (10 pistettä)
-- Osa 8: Konekielen perusteet
-  - Yksi tehtäväsetti (10 pistettä)
-- Osa 9: C-käännöksen analyysi
-  - ???
-- Osa 10: Konekieliprojekti
-  - Laskulausekkeen laskija (10 pistettä)
-
 ## Yleistä
 
 - Virtuaalinen muisti vs. fyysinen muisti, tuo esille usein
@@ -109,6 +80,7 @@ hide: true
 - Miksi pinolle näkyy vain 132 kt muistia varattuna?
 - Kannattaako käyttää AddressSanitizer vai Valgrind?
 - Mainitse lyhenne "asan"
+- Vertailu korkeamman tason kieliin (esim. smart pointerit, roskienkeruu)
 
 ## Luku 5
 
