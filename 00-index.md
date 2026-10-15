@@ -27,9 +27,11 @@ Tehtävät vaikuttavat kurssin arvosanaan seuraavasti:
 - Arvosana 4 vaatii vähintään 80 pistettä
 - Arvosana 5 vaatii vähintään 90 pistettä
 
-## Tentti
+## Tentti ja suoritus
 
-Kurssisuorituksen osana on tentti, joka järjestetään Examinariumissa. Tenttiin pystyy osallistumaan joustavasti. Lisätietoa tentistä julkaistaan tällä sivulla.
+Kurssisuorituksen osana on sähköinen exam-tentti. Tarkempaa tietoa tentistä on [tenttiohjeessa](tenttiohje/).
+
+Kun olet palauttanut tehtävät, käynyt tentissä ja haluat kurssin suorituksen, lähetä sähköposti kurssin vastuuhenkilölle. Mainitse viestissä kurssilla käyttämäsi CSES-tunnus ja opiskelijanumerosi.
 
 ## Yhteystiedot
 
