@@ -15,3 +15,7 @@ Tentin tarkoituksena on varmistaa, että sinulla on itsenäistä osaamista kurss
 Tentin arvostelu on hyväksytty/hylätty ja kurssin arvosana tulee verkossa ratkottavien tehtävien perusteella.
 
 Voit osallistua tenttiin tenttiakvaariossa sinulle sopivana ajankohtana. Sinun tulee osallistua tenttiin viimeistään 31.12.2026.
+
+<div class="note" markdown="1">
+Huomaa, että sinun tulee ilmoittautua Sisussa erikseen akvaariotenttiin, jotta voit varata tenttiajan. Kurssi suoritetaan ratkomalla tehtäviä ja osallistumalla tenttiin, eikä kurssia ole mahdollista suorittaa pelkällä tentillä.
+</div>
